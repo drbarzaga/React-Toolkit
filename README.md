@@ -47,7 +47,7 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - [State Management](#state-management)
 - [Styles](#styles)
 - [Charts](#charts)
-- [Virtual List & Grid](#virtual-list--grid)
+- [Virtualization](#virtualization)
 - [UI Frameworks](#ui-frameworks)
 - [Icons](#icons)
 - [Animations](#animations)
@@ -156,7 +156,7 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - **[ECharts for React](https://github.com/hustcc/echarts-for-react)**: A React wrapper for Apache ECharts.
 - **[Visx](https://airbnb.io/visx/)**: A collection of low-level visualization components for React.
 
-## Virtual List & Grid
+## Virtualization
 
 - **[Virtua](https://github.com/inokawa/virtua)**: A virtual list and grid library for React.
 - **[Tanstack Virtual](https://tanstack.com/virtual/latest)**: A powerful virtual list and grid library for React applications.
