@@ -258,6 +258,7 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - **[Docusaurus](https://docusaurus.io/)**: A project for building, deploying, and maintaining open source project websites easily.
 - **[MDX](https://mdxjs.com/)**: A format that lets you seamlessly use JSX in your Markdown documents.
 - **[Styleguidist](https://react-styleguidist.js.org/)**: Isolated React component development environment with a living style guide.
+- **[Nextra](https://nextra.site/)**: Simple, powerful and flexible site generation framework with everything you love from Next.js.
 
 ## Internationalization
 
