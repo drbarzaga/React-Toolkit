@@ -10,6 +10,25 @@
 
 </div>
 
+## ⭐ Star Us on GitHub
+
+If you find this project helpful or interesting, please consider giving it a star on GitHub. Your support motivates us to keep improving and adding new features!
+
+## 📢 Share
+
+If you enjoyed this project, please share it with your friends and colleagues on social media:
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-Share-blue?logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20React%20toolkit%20collection!%20https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit-collection)
+[![Facebook](https://img.shields.io/badge/Facebook-Share-blue?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit-collection)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Share-blue?logo=linkedin)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit-collection&title=React%20Toolkit%20Collection&summary=Check%20out%20this%20awesome%20React%20toolkit%20collection!&source=LinkedIn)
+[![Reddit](https://img.shields.io/badge/Reddit-Share-orange?logo=reddit)](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit-collection&title=React%20Toolkit%20Collection)
+
+</div>
+
+Thank you for spreading the word!
+
 ## 🚀 About
 
 <div align="left" style="font-family: Roboto, sans-serif; font-size: 16px; line-height: 1.6;">
