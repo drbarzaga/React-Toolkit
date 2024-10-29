@@ -41,8 +41,8 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - [Routing](#routing)
 - [Drag & Drop](#drag--drop)
 - [Tables](#tables)
-- [Hooks](#hooks)
 - [Forms](#forms)
+- [Hooks](#hooks)
 - [Notifications](#notifications)
 - [State Management](#state-management)
 - [Styles](#styles)
@@ -71,6 +71,8 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - [Hosting](#hosting)
 - [API Clients & Data Fetching](#api-clients--data-fetching)
 - [Visual Studio Code Extensions](#visual-studio-code-extensions)
+- [Live Coding Tools](#live-coding-tools)
+- [Learning](#learning)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -293,6 +295,8 @@ A curated list of essential libraries and tools for frontend developers, with a 
 
 ## Visual Studio Code Extensions
 
+> Explore these Visual Studio Code extensions to enhance your development workflow. These tools provide powerful features for code editing, debugging, and collaboration, making it easier to build and maintain your React projects efficiently.
+
 - **[ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)**: Provides a collection of useful snippets for React, Redux, and React Native.
 - **[Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)**: Dead simple React snippets you will actually use.
 - **[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**: An opinionated code formatter that supports many languages and integrates with most editors.
@@ -310,6 +314,38 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**: Launch a development local Server with live reload feature for static & dynamic pages.
 - **[Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)**: Copy JSON, paste as Go, TypeScript, C#, C++ and more.
 - **[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)**: Intelligent Tailwind CSS tooling for VS Code
+
+## Live Coding Tools
+
+> Explore these online coding platforms to create, share, and collaborate on React projects in real-time. These tools provide a fast and secure environment for web development, making it easy to test and deploy your applications.
+
+- **[CodeSandbox](https://codesandbox.io/)**: An online editor tailored for web applications, allowing you to create, share, and collaborate on React projects in real-time.
+- **[StackBlitz](https://stackblitz.com/)**: An online IDE for web development, providing a fast and secure environment to build and deploy React applications.
+- **[JSFiddle](https://jsfiddle.net/)**: An online code editor and playground for testing and sharing HTML, CSS, and JavaScript code snippets, including React.
+- **[CodePen](https://codepen.io/)**: A social development environment for front-end designers and developers, offering a platform to build and share React projects.
+- **[Repl.it](https://replit.com/)**: An online coding platform that supports multiple programming languages, including JavaScript and React, for collaborative coding and learning.
+
+## Learning
+
+### Popular Platforms
+
+- **[freeCodeCamp](https://www.freecodecamp.org/)**: An interactive learning platform offering a comprehensive curriculum on web development, including React.
+- **[Codecademy](https://www.codecademy.com/learn/react-101)**: Offers an interactive course on React, covering the basics to advanced concepts.
+- **[Scrimba](https://scrimba.com/learn/learnreact)**: Provides interactive coding screencasts to learn React and other web development technologies.
+- **[Frontend Masters](https://frontendmasters.com/)**: Offers in-depth courses on React and other frontend technologies taught by industry experts.
+- **[Egghead.io](https://egghead.io/)**: Short, concise video tutorials on React and other modern web development tools.
+
+### GitHub Repositories
+
+- **[React](https://github.com/facebook/react)**: The official repository for React, maintained by Facebook.
+
+### YouTube Channels
+
+- **[Traversy Media](https://www.youtube.com/user/TechGuyWeb)**: Offers tutorials on React and other web development technologies.
+- **[Academind](https://www.youtube.com/c/Academind)**: Provides comprehensive tutorials on React, including hooks, state management, and more.
+- **[The Net Ninja](https://www.youtube.com/c/TheNetNinja)**: Features a wide range of tutorials on React and other web development topics.
+- **[Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)**: Offers in-depth tutorials on React and other programming languages and frameworks.
+- **[freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)**: Provides full-length courses and tutorials on React and other web development technologies.
 
 ## Contributing
 
