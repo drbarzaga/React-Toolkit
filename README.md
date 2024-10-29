@@ -10,6 +10,8 @@
 
 </div>
 
+## 🚀 About
+
 <div align="left" style="font-family: Roboto, sans-serif; font-size: 16px; line-height: 1.6;">
 A curated list of essential libraries and tools for frontend developers, with a focus on React. From UI components and styling frameworks to state management, form handling, animations, testing, and utilities, this collection serves as a comprehensive toolkit to streamline and enhance your web development projects. Ideal for developers looking to build robust, scalable, and high-performance applications 🚀.
 </div>
@@ -20,6 +22,7 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - [Routing](#routing)
 - [Drag & Drop](#drag--drop)
 - [Tables](#tables)
+- [Hooks](#hooks)
 - [Forms](#forms)
 - [Notifications](#notifications)
 - [State Management](#state-management)
@@ -48,11 +51,13 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - [Code Splitting](#code-splitting)
 - [Hosting](#hosting)
 - [API Clients & Data Fetching](#api-clients--data-fetching)
+- [Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Contributors](#contributors)
 - [Support](#support)
+- [Contact](#contact)
 
 ## Authentication
 
@@ -94,6 +99,13 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - **[React Hook Form](https://react-hook-form.com/)**: Performant, flexible, and extensible forms with easy-to-use validation.
 - **[Tanstack Form](https://tanstack.com/form/latest)**: A powerful form library for React applications.
 - **[Formik](https://formik.org/)**: Build forms in React, without the tears.
+
+## Hooks
+
+- **[novajs](https://novajs.co/)**: A collection of dependency-free React hooks.
+- **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
+- **[React Use](https://github.com/streamich/react-use)**: A library of essential React hooks.
+- **[ahooks](https://ahooks.js.org/)**: A set of high-quality and reliable React hooks.
 
 ## Notifications
 
@@ -252,11 +264,6 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - **[Netlify](https://www.netlify.com/)**: A platform for automating modern web projects, with continuous deployment, serverless functions, and more.
 - **[Firebase](https://firebase.google.com/)**: A comprehensive app development platform that provides hosting for static and dynamic content, as well as backend services.
 
-## API Clients
-
-- **[Axios](https://axios-http.com/)**: A promise-based HTTP client for the browser and Node.js.
-- **[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)**: A modern interface for making HTTP requests in the browser.
-
 ## API Clients & Data Fetching
 
 - **[Axios](https://axios-http.com/)**: A promise-based HTTP client for the browser and Node.js.
@@ -264,6 +271,22 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - **[SWR](https://swr.vercel.app/)**: React Hooks library for remote data fetching.
 - **[Tanstack Query](https://tanstack.com/query/latest)**: Powerful asynchronous state management, server-state utilities, and data fetching for TS/JS, React, Solid, Vue, Svelte, and more.
 - **[GraphQL Request](https://github.com/prisma-labs/graphql-request)**: A minimal GraphQL client for making requests to GraphQL endpoints.
+
+## Visual Studio Code Extensions
+
+- **[ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)**: Provides a collection of useful snippets for React, Redux, and React Native.
+- **[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**: An opinionated code formatter that supports many languages and integrates with most editors.
+- **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)**: Integrates ESLint into VS Code, helping you find and fix problems in your JavaScript code.
+- **[React PropTypes Intellisense](https://marketplace.visualstudio.com/items?itemName=OfHumanBondage.react-proptypes-intellisense)**: Provides IntelliSense for React PropTypes.
+- **[VSCode React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)**: This simple extension provides the refactor code actions for React developers.
+- **[React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native)**: Provides a development environment for React Native projects.
+- **[GraphQL for VSCode](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql)**: Provides syntax highlighting, IntelliSense, and more for GraphQL queries.
+- **[Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)**: Use Facebook's Jest With Pleasure.
+- **[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)**: Intelligent Tailwind CSS tooling for VS Code.
+- **[Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)**: Automatically finds, parses, and provides code actions and code completion for all available imports.
+- **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)**: Supercharges the built-in Git capabilities of VS Code.
+- **[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)**: Autocompletes filenames.
+- **[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)**: A basic spell checker that works well with camelCase code.
 
 ## Contributing
 
@@ -294,3 +317,13 @@ If you find this collection helpful, please consider giving it a star ⭐ on Git
 You can also support me by buying me a coffee:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dayanperez)
+
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to reach out:
+
+- **Email**: [dayan.perez9012@gmail.com](mailto:dayan.perez9012@gmail.com)
+- **Twitter**: [@dayanDev](https://twitter.com/dayanDev)
+- **LinkedIn**: [Dayan Perez](https://www.linkedin.com/in/drbarzaga/)
+
+We look forward to hearing from you!
