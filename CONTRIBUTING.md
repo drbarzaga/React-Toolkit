@@ -1,6 +1,6 @@
-# Contributing to React Toolkit Collection
+# Contributing to React Frontend Toolkit
 
-Thank you for considering contributing to React Toolkit Collection! Here are some guidelines to help you get started.
+Thank you for considering contributing to React Frontend Toolkit Here are some guidelines to help you get started.
 
 ## How to Contribute
 
@@ -9,7 +9,7 @@ Thank you for considering contributing to React Toolkit Collection! Here are som
 2. **Clone the Repository**: Clone the forked repository to your local machine.
 
    ```sh
-   git clone https://github.com/drbarzaga/react-toolkit-collection.git
+   git clone git@github.com:drbarzaga/React-Frontend-Toolkit.git
    ```
 
 3. **Create a Branch**: Create a new branch for your feature or bug fix.
@@ -37,6 +37,6 @@ Thank you for considering contributing to React Toolkit Collection! Here are som
 
 ## Reporting Issues
 
-If you find any bugs or have feature requests, please open an issue on the [GitHub Issues](https://github.com/drbarzaga/react-toolkit-collection/issues) page.
+If you find any bugs or have feature requests, please open an issue on the [GitHub Issues](https://github.com/drbarzaga/React-Frontend-Toolkit/issues) page.
 
 Thank you for your contributions!
