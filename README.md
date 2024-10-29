@@ -1,4 +1,4 @@
-# 🧰 react-frontend-toolkit
+# 🧰 React Frontend Toolkit
 
 <div align="center">
   
