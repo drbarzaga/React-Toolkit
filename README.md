@@ -1,4 +1,4 @@
-# 🧰 react-toolkit-collection
+# 🧰 frontend-toolkit
 
 <div align="center">
   
@@ -11,7 +11,7 @@
 </div>
 
 <div align="left" style="font-family: Roboto, sans-serif; font-size: 16px; line-height: 1.6;">
-A curated list of essential libraries and tools for React developers. From UI components and styling frameworks to state management, form handling, animations, testing, and utilities, this collection serves as a comprehensive toolkit to streamline and enhance your React projects. Ideal for developers looking to build robust 🚀.
+A curated list of essential libraries and tools for frontend developers. From UI components and styling frameworks to state management, form handling, animations, testing, and utilities, this collection serves as a comprehensive toolkit to streamline and enhance your web development projects. Ideal for developers looking to build robust, scalable, and high-performance applications 🚀.
 </div>
 
 ## Table of Contents
