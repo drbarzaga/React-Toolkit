@@ -50,3 +50,15 @@ A useful collection of libraries for React
 
 ## Animations
 - [Framer Motion](https://www.framer.com/motion/)
+- [React Spring](https://www.react-spring.dev/)
+
+## Validations
+- [Yup](https://www.npmjs.com/package/yup)
+
+## Testing
+- [Jest](https://jestjs.io/)
+- [Vitest](https://vitest.dev/)
+- [Playwright](https://playwright.dev/)
+
+## Utility
+- [Storybook](https://storybook.js.org/)
