@@ -17,6 +17,13 @@ A curated list of essential libraries and tools for React developers. From UI co
 ## Authentication
 
 - [Auth.js](https://authjs.dev/)
+- [Firebase Authentication](https://firebase.google.com/docs/auth)
+- [Auth0](https://auth0.com/)
+- [Okta](https://developer.okta.com/docs/guides/sign-into-spa/react/before-you-begin/)
+- [AWS Amplify Auth](https://docs.amplify.aws/lib/auth/getting-started/q/platform/js/)
+- [Supabase Auth](https://supabase.io/docs/guides/auth)
+- [Clerk](https://clerk.dev/)
+- [Magic](https://magic.link/)
 
 ## Routing
 
@@ -78,20 +85,79 @@ A curated list of essential libraries and tools for React developers. From UI co
 - [Virtua](https://github.com/inokawa/virtua)
 - [Tanstack Virtual](https://tanstack.com/virtual/latest)
 
-## UI Components
+## UI Frameworks
 
 - [Shadcn UI](https://ui.shadcn.com/)
 - [Chakra UI](https://www.chakra-ui.com/)
 - [Mantine](https://mantine.dev/)
+- [Ant Design](https://ant.design/)
+- [Blueprint](https://blueprintjs.com/)
+
+## Icons
+
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Font Awesome](https://fontawesome.com/)
 
 ## Animations
 
 - [Framer Motion](https://www.framer.com/motion/)
 - [React Spring](https://www.react-spring.dev/)
 
+## Maps
+
+- [React Leaflet](https://react-leaflet.js.org/)
+- [Google Maps React](https://github.com/google-map-react/google-map-react)
+
+## File Upload
+
+- [React Dropzone](https://react-dropzone.js.org/)
+- [Uppy](https://uppy.io/)
+
+## Real-time Communication
+
+- [Socket.IO](https://socket.io/)
+- [Pusher](https://pusher.com/)
+
+## Video & Audio
+
+- [React Player](https://github.com/cookpete/react-player)
+- [React Webcam](https://github.com/mozmorris/react-webcam)
+- [React Sound](https://github.com/leoasis/react-sound)
+
+## SEO
+
+- [React Helmet](https://github.com/nfl/react-helmet)
+- [Next SEO](https://github.com/garmeeh/next-seo)
+
 ## Validations
 
 - [Yup](https://www.npmjs.com/package/yup)
+
+## GraphQL
+
+- [Apollo Client](https://www.apollographql.com/docs/react/)
+- [Relay](https://relay.dev/)
+
+## Bundlers
+
+- [Webpack](https://webpack.js.org/)
+- [Vite](https://vitejs.dev/)
+- [Parcel](https://parceljs.org/)
+
+## Linting & Formatting
+
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+
+## DevTools
+
+- [React Developer Tools](https://github.com/facebook/react/tree/main/packages/react-devtools)
+- [Redux DevTools](https://github.com/reduxjs/redux-devtools)
+
+## Build Tools
+
+- [Create React App](https://create-react-app.dev/)
+- [Vite](https://vitejs.dev/)
 
 ## Testing
 
@@ -99,7 +165,7 @@ A curated list of essential libraries and tools for React developers. From UI co
 - [Vitest](https://vitest.dev/)
 - [Playwright](https://playwright.dev/)
 
-## Utility
+## Documentation
 
 - [Storybook](https://storybook.js.org/)
 
@@ -127,6 +193,17 @@ A curated list of essential libraries and tools for React developers. From UI co
 
 - [Loadable Components](https://loadable-components.com/)
 - [React Loadable](https://github.com/jamiebuilds/react-loadable)
+
+## Hosting
+
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [Firebase](https://firebase.google.com/)
+
+## API Clients
+
+- [Axios](https://axios-http.com/)
+- [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
 ## Contributing
 
