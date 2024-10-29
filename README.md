@@ -339,7 +339,15 @@ If you find this collection helpful, please consider giving it a star ⭐ on Git
 
 You can also support me by buying me a coffee:
 
+<div align="center">
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dayanperez)
+
+</div>
+
+<div align="center">
+  <img src="assets/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200" />
+</div>
 
 ## Contact
 
