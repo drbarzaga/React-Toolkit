@@ -1,6 +1,6 @@
 # Contributing to React Frontend Toolkit
 
-Thank you for considering contributing to React Frontend Toolkit Here are some guidelines to help you get started.
+Thank you for considering contributing to React Frontend Toolkit. Here are some guidelines to help you get started.
 
 ## How to Contribute
 
