@@ -2,11 +2,11 @@
 
 <div align="center">
   
-![GitHub stars](https://img.shields.io/github/stars/drbarzaga/react-toolkit-collection?style=social)
-![GitHub forks](https://img.shields.io/github/forks/drbarzaga/react-toolkit-collection?style=social)
-![GitHub issues](https://img.shields.io/github/issues/drbarzaga/react-toolkit-collection)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/drbarzaga/react-toolkit-collection)
-![GitHub license](https://img.shields.io/github/license/drbarzaga/react-toolkit-collection)
+![GitHub stars](https://img.shields.io/github/stars/drbarzaga/react-frontend-toolkit?style=social)
+![GitHub forks](https://img.shields.io/github/forks/drbarzaga/react-frontend-toolkit?style=social)
+![GitHub issues](https://img.shields.io/github/issues/drbarzaga/react-frontend-toolkit)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/drbarzaga/react-frontend-toolkit)
+![GitHub license](https://img.shields.io/github/license/drbarzaga/react-frontend-toolkit)
 
 </div>
 
@@ -20,10 +20,10 @@ If you enjoyed this project, please share it with your friends and colleagues on
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-Share-blue?logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20React%20toolkit%20collection!%20https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit-collection)
-[![Facebook](https://img.shields.io/badge/Facebook-Share-blue?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit-collection)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Share-blue?logo=linkedin)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit-collection&title=React%20Toolkit%20Collection&summary=Check%20out%20this%20awesome%20React%20toolkit%20collection!&source=LinkedIn)
-[![Reddit](https://img.shields.io/badge/Reddit-Share-orange?logo=reddit)](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit-collection&title=React%20Toolkit%20Collection)
+[![Twitter](https://img.shields.io/badge/Twitter-Share-blue?logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20React%20toolkit%20collection!%20https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-frontend-toolkit)
+[![Facebook](https://img.shields.io/badge/Facebook-Share-blue?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-frontend-toolkit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Share-blue?logo=linkedin)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-frontend-toolkit&title=React%20Toolkit%20Collection&summary=Check%20out%20this%20awesome%20React%20toolkit%20collection!&source=LinkedIn)
+[![Reddit](https://img.shields.io/badge/Reddit-Share-orange?logo=reddit)](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-frontend-toolkit&title=React%20Toolkit%20Collection)
 
 </div>
 
@@ -363,8 +363,8 @@ Special thanks to all the developers and contributors of the libraries and tools
 
 Thanks to the following people who have contributed to this project:
 
-<a href="https://github.com/drbarzaga/react-toolkit-collection/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=drbarzaga/react-toolkit-collection" />
+<a href="https://github.com/drbarzaga/react-frontend-toolkit/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=drbarzaga/react-frontend-toolkit" />
 </a>
 
 If you would like to contribute, please check out the [contributing guidelines](CONTRIBUTING.md).
