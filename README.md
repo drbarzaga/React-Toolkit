@@ -275,6 +275,7 @@ A curated list of essential libraries and tools for frontend developers, with a 
 ## Visual Studio Code Extensions
 
 - **[ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)**: Provides a collection of useful snippets for React, Redux, and React Native.
+- **[Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)**: Dead simple React snippets you will actually use.
 - **[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**: An opinionated code formatter that supports many languages and integrates with most editors.
 - **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)**: Integrates ESLint into VS Code, helping you find and fix problems in your JavaScript code.
 - **[React PropTypes Intellisense](https://marketplace.visualstudio.com/items?itemName=OfHumanBondage.react-proptypes-intellisense)**: Provides IntelliSense for React PropTypes.
@@ -287,6 +288,9 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)**: Supercharges the built-in Git capabilities of VS Code.
 - **[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)**: Autocompletes filenames.
 - **[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)**: A basic spell checker that works well with camelCase code.
+- **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**: Launch a development local Server with live reload feature for static & dynamic pages.
+- **[Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)**: Copy JSON, paste as Go, TypeScript, C#, C++ and more.
+- **[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)**: Intelligent Tailwind CSS tooling for VS Code
 
 ## Contributing
 
