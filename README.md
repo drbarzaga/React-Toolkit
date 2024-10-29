@@ -347,19 +347,19 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - **[Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)**: Offers in-depth tutorials on React and other programming languages and frameworks.
 - **[freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)**: Provides full-length courses and tutorials on React and other web development technologies.
 
-## Contributing
+## 🧩 Contributing
 
 Contributions are welcome! If you have any libraries or tools that you think should be included in this collection, feel free to open an issue or submit a pull request.
 
-## License
+## 📃 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Acknowledgements
+## ✨ Acknowledgements
 
 Special thanks to all the developers and contributors of the libraries and tools listed in this collection. Your hard work and dedication make the React ecosystem better for everyone.
 
-## Contributors
+## 🤝 Contributors
 
 Thanks to the following people who have contributed to this project:
 
@@ -369,7 +369,7 @@ Thanks to the following people who have contributed to this project:
 
 If you would like to contribute, please check out the [contributing guidelines](CONTRIBUTING.md).
 
-## Support
+## ❤️ Support
 
 If you find this collection helpful, please consider giving it a star ⭐ on GitHub. Your support is greatly appreciated!
 
@@ -385,7 +385,7 @@ You can also support me by buying me a coffee:
   <img src="assets/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200" />
 </div>
 
-## Contact
+## ✉️ Contact
 
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
