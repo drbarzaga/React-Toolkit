@@ -314,6 +314,7 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**: Launch a development local Server with live reload feature for static & dynamic pages.
 - **[Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)**: Copy JSON, paste as Go, TypeScript, C#, C++ and more.
 - **[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)**: Intelligent Tailwind CSS tooling for VS Code
+- **[Nova.js Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=novajs.nova-js-vsce)**: Add dependency-free React hooks to your project without leaving VS Code
 
 ## Live Coding Tools
 
