@@ -1,5 +1,5 @@
-# react-useful-libraries
-A useful collection of libraries for React
+# 🧰 react-toolkit-collection
+A curated list of essential libraries and tools for React developers. From UI components and styling frameworks to state management, form handling, animations, and testing utilities, this collection serves as a comprehensive toolkit to streamline and enhance your React projects. Ideal for developers looking to build robust 🚀.
 
 ## Authentication
 - [Auth.js](https://authjs.dev/)
