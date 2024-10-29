@@ -137,3 +137,11 @@ Thanks to the following people who have contributed to this project:
 </a>
 
 If you would like to contribute, please check out the [contributing guidelines](CONTRIBUTING.md).
+
+## Support
+
+If you find this collection helpful, please consider giving it a star ⭐ on GitHub. Your support is greatly appreciated!
+
+You can also support me by buying me a coffee:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dayanperez)
