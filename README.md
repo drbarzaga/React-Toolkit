@@ -14,6 +14,46 @@
 A curated list of essential libraries and tools for React developers. From UI components and styling frameworks to state management, form handling, animations, testing, and utilities, this collection serves as a comprehensive toolkit to streamline and enhance your React projects. Ideal for developers looking to build robust 🚀.
 </div>
 
+## Table of Contents
+
+- [Authentication](#authentication)
+- [Routing](#routing)
+- [Drag & Drop](#drag--drop)
+- [Tables](#tables)
+- [Forms](#forms)
+- [Notifications](#notifications)
+- [State Management](#state-management)
+- [Styles](#styles)
+- [Charts](#charts)
+- [Virtual List & Grid](#virtual-list--grid)
+- [UI Frameworks](#ui-frameworks)
+- [Icons](#icons)
+- [Animations](#animations)
+- [Maps](#maps)
+- [File Upload](#file-upload)
+- [Real-time Communication](#real-time-communication)
+- [Video & Audio](#video--audio)
+- [SEO](#seo)
+- [Validations](#validations)
+- [GraphQL](#graphql)
+- [Bundlers](#bundlers)
+- [Linting & Formatting](#linting--formatting)
+- [DevTools](#devtools)
+- [Build Tools](#build-tools)
+- [Testing](#testing)
+- [Documentation](#documentation)
+- [Internationalization](#internationalization)
+- [Performance Optimization](#performance-optimization)
+- [Error Handling](#error-handling)
+- [Code Splitting](#code-splitting)
+- [Hosting](#hosting)
+- [API Clients & Data Fetching](#api-clients--data-fetching)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Contributors](#contributors)
+- [Support](#support)
+
 ## Authentication
 
 - **[Auth.js](https://authjs.dev/)**: Authentication for the Web. Free and open source.
