@@ -1,6 +1,18 @@
 # 🧰 react-toolkit-collection
 
-A curated list of essential libraries and tools for React developers. From UI components and styling frameworks to state management, form handling, animations, testing and utilities, this collection serves as a comprehensive toolkit to streamline and enhance your React projects. Ideal for developers looking to build robust 🚀.
+<div align="center">
+
+![GitHub stars](https://img.shields.io/github/stars/drbarzaga/react-toolkit-collection?style=social)
+![GitHub forks](https://img.shields.io/github/forks/drbarzaga/react-toolkit-collection?style=social)
+![GitHub issues](https://img.shields.io/github/issues/drbarzaga/react-toolkit-collection)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/drbarzaga/react-toolkit-collection)
+![GitHub license](https://img.shields.io/github/license/drbarzaga/react-toolkit-collection)
+
+</div>
+
+<div align="left" style="font-family: Roboto, sans-serif; font-size: 16px; line-height: 1.6;">
+A curated list of essential libraries and tools for React developers. From UI components and styling frameworks to state management, form handling, animations, testing, and utilities, this collection serves as a comprehensive toolkit to streamline and enhance your React projects. Ideal for developers looking to build robust 🚀.
+</div>
 
 ## Authentication
 
