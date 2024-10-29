@@ -258,6 +258,7 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - **[Docusaurus](https://docusaurus.io/)**: A project for building, deploying, and maintaining open source project websites easily.
 - **[MDX](https://mdxjs.com/)**: A format that lets you seamlessly use JSX in your Markdown documents.
 - **[Styleguidist](https://react-styleguidist.js.org/)**: Isolated React component development environment with a living style guide.
+- **[Nextra](https://nextra.site/)**: Simple, powerful and flexible site generation framework with everything you love from Next.js.
 
 ## Internationalization
 
@@ -314,6 +315,7 @@ A curated list of essential libraries and tools for frontend developers, with a 
 - **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**: Launch a development local Server with live reload feature for static & dynamic pages.
 - **[Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)**: Copy JSON, paste as Go, TypeScript, C#, C++ and more.
 - **[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)**: Intelligent Tailwind CSS tooling for VS Code
+- **[Nova.js Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=novajs.nova-js-vsce)**: Add dependency-free React hooks to your project without leaving VS Code
 
 ## Live Coding Tools
 
