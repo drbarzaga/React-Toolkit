@@ -168,10 +168,9 @@ yarn global add react-frontend-toolkit-cli
 - **[Recharts](https://recharts.org/en-US)**: A composable charting library built on React components.
 - **[Victory](https://formidable.com/open-source/victory/)**: A collection of composable React components for building interactive data visualizations.
 - **[Nivo](https://nivo.rocks/)**: Provides a rich set of data visualization components, built on top of D3 and React.
-- **[Chart.js](https://www.chartjs.org/docs/latest/getting-started/integration.html#react)**: Simple yet flexible JavaScript charting for designers & developers.
+- **[Chart.js](https://www.chartjs.org)**: Simple yet flexible JavaScript charting for designers & developers.
 - **[React-Vis](https://uber.github.io/react-vis/)**: A collection of react components to render common data visualization charts.
-- **[BizCharts](https://bizcharts.net/)**: A powerful data visualization library based on G2 and React.
-- **[ECharts for React](https://github.com/hustcc/echarts-for-react)**: A React wrapper for Apache ECharts.
+- **[ECharts for React](https://git.hust.cc/echarts-for-react/)**: A React wrapper for Apache ECharts.
 - **[Visx](https://airbnb.io/visx/)**: A collection of low-level visualization components for React.
 
 ## Virtualization
