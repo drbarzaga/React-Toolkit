@@ -41,16 +41,18 @@ To make it easy to access all the tools mentioned here, we designed the React Fr
 
 ### Installation
 
-You can install the CLI globally using npm or yarn:
+You can install the CLI globally using npm, yarn, or pnpm:
 
 ```bash
 npm install -g react-frontend-toolkit-cli
 ```
 
-or
-
 ```bash
 yarn global add react-frontend-toolkit-cli
+```
+
+```bash
+pnpm add -g react-frontend-toolkit-cli
 ```
 
 ## Table of Contents
