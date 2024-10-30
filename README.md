@@ -225,6 +225,7 @@ yarn global add react-frontend-toolkit-cli
 ## SEO
 
 - **[React Helmet](https://github.com/nfl/react-helmet)**: A reusable React component that manages changes to the document head.
+- **[React Meta Tags](https://www.npmjs.com/package/react-meta-tags)**: A library for managing meta tags in React applications.
 - **[Next SEO](https://github.com/garmeeh/next-seo)**: A plugin that makes managing SEO easier in Next.js projects.
 
 ## Validations
@@ -232,7 +233,7 @@ yarn global add react-frontend-toolkit-cli
 - **[Yup](https://www.npmjs.com/package/yup)**: A JavaScript schema builder for value parsing and validation.
 - **[Joi](https://joi.dev/)**: A powerful schema description language and data validator for JavaScript.
 - **[Validator](https://github.com/validatorjs/validator.js)**: A library for string validation and sanitization.
-- **[Superstruct](https://github.com/ianstormtaylor/superstruct)**: A simple and composable way to validate data in JavaScript and TypeScript.
+- **[Superstruct](https://docs.superstructjs.org/)**: A simple and composable way to validate data in JavaScript and TypeScript.
 - **[Vest](https://vestjs.dev/)**: A validations framework inspired by unit testing libraries.
 - **[Zod](https://zod.dev/)**: A TypeScript-first schema declaration and validation library.
 
