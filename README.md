@@ -81,7 +81,7 @@ pnpm add -g react-frontend-toolkit-cli
 - [Bundlers](#bundlers)
 - [Linting & Formatting](#linting--formatting)
 - [DevTools](#devtools)
-- [Build Tools](#build-tools)
+<!-- - [Build Tools](#build-tools) -->
 - [Testing](#testing)
 - [Documentation](#documentation)
 - [Internationalization](#internationalization)
@@ -257,13 +257,8 @@ pnpm add -g react-frontend-toolkit-cli
 
 ## DevTools
 
-- **[React Developer Tools](https://github.com/facebook/react/tree/main/packages/react-devtools)**: Official React DevTools for inspecting React component hierarchy.
-- **[Redux DevTools](https://github.com/reduxjs/redux-devtools)**: DevTools for Redux to help debug application state changes.
-
-## Build Tools
-
-- **[Create React App](https://create-react-app.dev/)**: A comfortable environment for learning React, and is the best way to start building a new single-page application in React.
-- **[Vite](https://vitejs.dev/)**: A next-generation frontend tooling that focuses on speed and performance, offering a fast development experience.
+- **[React Developer Tools](https://react.dev/learn/react-developer-tools)**: Official React DevTools for inspecting React component hierarchy.
+- **[Redux DevTools](https://redux.js.org/tutorials/fundamentals/part-4-store#redux-devtools)**: DevTools for Redux to help debug application state changes.
 
 ## Testing
 
@@ -282,17 +277,17 @@ pnpm add -g react-frontend-toolkit-cli
 
 ## Internationalization
 
-- **[React Intl](https://formatjs.io/docs/react-intl/)**: Internationalization library for React, part of FormatJS.
+- **[Format.JS](https://formatjs.github.io/)**: Internationalization library for React, part of FormatJS.
 - **[i18next](https://www.i18next.com/)**: A powerful internationalization framework for JavaScript, including React.
 
 ## Performance Optimization
 
-- **[React Lazy Load](https://github.com/twobin/react-lazyload)**: A library that helps you defer loading content in your React application until it becomes visible in the viewport.
+- **[React Lazy Load](https://github.com/loktar00/react-lazy-load)**: A library that helps you defer loading content in your React application until it becomes visible in the viewport.
 - **[React Window](https://react-window.vercel.app/)**: A library for rendering large lists and tabular data efficiently.
 
 ## Error Handling
 
-- **[React Error Boundary](https://reactjs.org/docs/error-boundaries.html)**: A React component that catches JavaScript errors anywhere in their child component tree, logs those errors, and displays a fallback UI.
+- **[React Error Boundary](https://www.npmjs.com/package/react-error-boundary)**: A React component that catches JavaScript errors anywhere in their child component tree, logs those errors, and displays a fallback UI.
 - **[Sentry](https://sentry.io/for/react/)**: A monitoring platform that helps you identify and fix issues in your React applications in real-time.
 
 ## Code Splitting
