@@ -300,6 +300,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Vercel](https://vercel.com/)**: A platform for frontend frameworks and static sites, built to integrate with your headless content, commerce, or database.
 - **[Netlify](https://www.netlify.com/)**: A platform for automating modern web projects, with continuous deployment, serverless functions, and more.
 - **[Firebase](https://firebase.google.com/)**: A comprehensive app development platform that provides hosting for static and dynamic content, as well as backend services.
+- **[AWS Amplify](https://aws.amazon.com/es/amplify/)**: A set of tools and services that enables mobile and front-end web developers to build secure, scalable full-stack applications.
 
 ## API Clients & Data Fetching
 
@@ -307,7 +308,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)**: A modern interface for making HTTP requests in the browser.
 - **[SWR](https://swr.vercel.app/)**: React Hooks library for remote data fetching.
 - **[Tanstack Query](https://tanstack.com/query/latest)**: Powerful asynchronous state management, server-state utilities, and data fetching for TS/JS, React, Solid, Vue, Svelte, and more.
-- **[GraphQL Request](https://github.com/prisma-labs/graphql-request)**: A minimal GraphQL client for making requests to GraphQL endpoints.
+- **[GraphQL Request](https://github.com/graffle-js/graffle)**: A minimal GraphQL client for making requests to GraphQL endpoints.
 
 ## Visual Studio Code Extensions
 
