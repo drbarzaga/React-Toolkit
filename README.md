@@ -150,6 +150,8 @@ pnpm add -g react-frontend-toolkit-cli
 - **[React Hook Form](https://react-hook-form.com/)**: Performant, flexible, and extensible forms with easy-to-use validation.
 - **[Tanstack Form](https://tanstack.com/form/latest)**: A powerful form library for React applications.
 - **[Formik](https://formik.org/)**: Build forms in React, without the tears.
+- **[React Json Schema Form](https://rjsf-team.github.io/react-jsonschema-form/docs/)**: A React component for building Web forms from JSON Schema.
+- **[Formily](https://formilyjs.org/)**: Alibaba Group Unified Form Solution.
 
 ### Hooks
 
