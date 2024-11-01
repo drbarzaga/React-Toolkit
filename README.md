@@ -1,4 +1,4 @@
-# 🧰 React Frontend Toolkit
+## 🧰 React Frontend Toolkit
 
 <div align="center">
   
@@ -10,11 +10,11 @@
 
 </div>
 
-## ⭐ Star Us on GitHub
+### ⭐ Star Us on GitHub
 
 If you find this project helpful or interesting, please consider giving it a star on GitHub. Your support motivates us to keep improving and adding new features!
 
-## 📢 Share
+### 📢 Share
 
 If you enjoyed this project, please share it with your friends and colleagues on social media:
 
@@ -29,13 +29,13 @@ If you enjoyed this project, please share it with your friends and colleagues on
 
 Thank you for spreading the word!
 
-## ℹ️ About
+### ℹ️ About
 
 <div align="left" style="font-family: Roboto, sans-serif; font-size: 16px; line-height: 1.6;">
 A curated list of essential libraries and tools for frontend developers, with a focus on React. From UI components and styling frameworks to state management, form handling, animations, testing, and utilities, this collection serves as a comprehensive toolkit to streamline and enhance your web development projects. Ideal for developers looking to build robust, scalable, and high-performance applications 🚀.
 </div>
 
-## 🚀 React Frontend Toolkit CLI
+### 🚀 React Frontend Toolkit CLI
 
 To make it easy to access all the tools mentioned here, we designed the React Frontend Toolkit CLI, a command-line interface that provides access to this list of tools and packages directly from your terminal. For more detailed usage instructions and examples, please refer to the [official documentation](https://github.com/drbarzaga/React-Frontend-Toolkit-CLI#readme).
 
