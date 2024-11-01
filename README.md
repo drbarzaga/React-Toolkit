@@ -327,6 +327,7 @@ pnpm add -g react-frontend-toolkit-cli
 
 ### Visual Studio Code Extensions
 
+> [!TIP]
 > Explore these Visual Studio Code extensions to enhance your development workflow. These tools provide powerful features for code editing, debugging, and collaboration, making it easier to build and maintain your React projects efficiently.
 
 - **[ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)**: Provides a collection of useful snippets for React, Redux, and React Native.
@@ -350,6 +351,7 @@ pnpm add -g react-frontend-toolkit-cli
 
 ### Live Coding Tools
 
+> [!TIP]
 > Explore these online coding platforms to create, share, and collaborate on React projects in real-time. These tools provide a fast and secure environment for web development, making it easy to test and deploy your applications.
 
 - **[CodeSandbox](https://codesandbox.io/)**: An online editor tailored for web applications, allowing you to create, share, and collaborate on React projects in real-time.
