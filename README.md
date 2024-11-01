@@ -55,7 +55,7 @@ yarn global add react-frontend-toolkit-cli
 pnpm add -g react-frontend-toolkit-cli
 ```
 
-## Table of Contents
+### Table of Contents
 
 - [Authentication](#authentication)
 - [Routing](#routing)
@@ -65,7 +65,7 @@ pnpm add -g react-frontend-toolkit-cli
 - [Hooks](#hooks)
 - [Notifications](#notifications)
 - [State Management](#state-management)
-- [Styles](#styles)
+- [Styling](#styling)
 - [Charts](#charts)
 - [Virtualization](#virtualization)
 - [UI Frameworks](#ui-frameworks)
@@ -81,7 +81,6 @@ pnpm add -g react-frontend-toolkit-cli
 - [Bundlers](#bundlers)
 - [Linting & Formatting](#linting--formatting)
 - [DevTools](#devtools)
-<!-- - [Build Tools](#build-tools) -->
 - [Testing](#testing)
 - [Documentation](#documentation)
 - [Internationalization](#internationalization)
@@ -92,7 +91,9 @@ pnpm add -g react-frontend-toolkit-cli
 - [API Clients & Data Fetching](#api-clients--data-fetching)
 - [Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Live Coding Tools](#live-coding-tools)
-- [Learning](#learning)
+- [Popular Platforms](#popular-platforms)
+- [GitHub Repositories](#github-repositories)
+- [YouTube Channels](#youtube-channels)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -100,7 +101,7 @@ pnpm add -g react-frontend-toolkit-cli
 - [Support](#support)
 - [Contact](#contact)
 
-## Authentication
+### Authentication
 
 - **[Auth.js](https://authjs.dev/)**: Authentication for the Web. Free and open source.
 - **[Firebase Authentication](https://firebase.google.com/docs/auth)**: Provides backend services to help authenticate users in your app.
@@ -111,14 +112,14 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Clerk](https://clerk.dev/)**: Authentication and user management for modern applications.
 - **[Magic](https://magic.link/)**: Passwordless authentication solution for seamless user experiences.
 
-## Routing
+### Routing
 
 - **[Wouter](https://github.com/molefrog/wouter)**: A minimalist alternative to React Router with a small footprint.
 - **[Tanstack Router](https://tanstack.com/router/latest)**: A powerful routing library for React applications.
 - **[React Router](https://reactrouter.com/)**: The standard routing library for React applications.
 - **[Reach Router](https://reach.tech/router)**: A routing library with a focus on accessibility and simplicity.
 
-## Drag & Drop
+### Drag & Drop
 
 - **[DnDKit](https://dndkit.com/)**: A lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - **[React Beautiful DnD](https://github.com/atlassian/react-beautiful-dnd)**: A powerful and beautiful drag-and-drop library for lists with React.
@@ -126,7 +127,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[SortableJS](https://github.com/SortableJS/react-sortablejs)**: A React wrapper for SortableJS, a library for reorderable drag-and-drop lists.
 - **[React Dragula](https://github.com/bevacqua/react-dragula)**: A drag-and-drop library for React based on Dragula.
 
-## Tables
+### Tables
 
 - **[Tanstack Table](https://tanstack.com/table/latest)**: A headless UI for building powerful tables and datagrids.
 - **[Material-UI Table](https://mui.com/components/tables/)**: Tables built with Material-UI, a popular React UI framework.
@@ -135,37 +136,38 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Griddle](https://griddlegriddle.github.io/Griddle/)**: A simple grid component for use with React.
 - **[React Virtualized](https://github.com/bvaughn/react-virtualized)**: A set of React components for efficiently rendering large lists and tabular data.
 
-## Forms
+### Forms
 
 - **[React Hook Form](https://react-hook-form.com/)**: Performant, flexible, and extensible forms with easy-to-use validation.
 - **[Tanstack Form](https://tanstack.com/form/latest)**: A powerful form library for React applications.
 - **[Formik](https://formik.org/)**: Build forms in React, without the tears.
 
-## Hooks
+### Hooks
 
 - **[novajs](https://novajs.co/)**: A collection of dependency-free React hooks.
 - **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
 - **[React Use](https://github.com/streamich/react-use)**: A library of essential React hooks.
 - **[ahooks](https://ahooks.js.org/)**: A set of high-quality and reliable React hooks.
 
-## Notifications
+### Notifications
 
 - **[Sonner](https://sonner.emilkowal.ski/)**: An opinionated toast component for React.
 
-## State Management
+### State Management
 
 - **[Zustand](https://zustand-demo.pmnd.rs/)**: A small, fast, and scalable bearbones state-management solution.
 - **[Tanstack Store](https://tanstack.com/store/latest)**: A powerful state management library for React applications.
 - **[Redux Toolkit](https://redux-toolkit.js.org/)**: The official, recommended way to write Redux logic.
 - **[Recoil](https://recoiljs.org/)**: A state management library for React that makes it easy to share state across components.
 
-## Styles
+### Styling
 
 - **[TailwindCss](https://tailwindcss.com/)**: A utility-first CSS framework for rapidly building custom user interfaces.
 - **[Styled Components](https://styled-components.com/)**: Utilizes tagged template literals to style your components.
 - **[Emotion](https://emotion.sh/docs/introduction)**: A performant and flexible CSS-in-JS library.
+- **[Vanilla Extract](https://vanilla-extract.style/)**: Zero-runtime Stylesheets-in-TypeScript
 
-## Charts
+### Charts
 
 - **[Recharts](https://recharts.org/en-US)**: A composable charting library built on React components.
 - **[Victory](https://formidable.com/open-source/victory/)**: A collection of composable React components for building interactive data visualizations.
@@ -175,20 +177,23 @@ pnpm add -g react-frontend-toolkit-cli
 - **[ECharts for React](https://git.hust.cc/echarts-for-react/)**: A React wrapper for Apache ECharts.
 - **[Visx](https://airbnb.io/visx/)**: A collection of low-level visualization components for React.
 
-## Virtualization
+### Virtualization
 
 - **[Virtua](https://github.com/inokawa/virtua)**: A virtual list and grid library for React.
 - **[Tanstack Virtual](https://tanstack.com/virtual/latest)**: A powerful virtual list and grid library for React applications.
 
-## UI Frameworks
+### UI Frameworks
 
 - **[Shadcn UI](https://ui.shadcn.com/)**: A modern UI framework for building responsive and accessible web applications.
 - **[Chakra UI](https://www.chakra-ui.com/)**: A simple, modular, and accessible component library that gives you the building blocks to build your React applications.
 - **[Mantine](https://mantine.dev/)**: A fully featured React components library with native dark theme support.
 - **[Ant Design](https://ant.design/)**: A design system with values of Nature and Determinacy for better user experience of enterprise applications.
 - **[Blueprint](https://blueprintjs.com/)**: A React-based UI toolkit for the web.
+- **[FluentUI](https://react.fluentui.dev/?path=/docs/concepts-introduction--docs)**: A collection of UX frameworks from Microsoft that help you build web apps that match the Microsoft Design Language
+- **[Ariakit](https://ariakit.org/)**: A modern React UI library that helps you build fast, accessible, and responsive web applications.
+- **[React Email](https://react.email/)**: A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
 
-## Icons
+### Icons
 
 - **[React Icons](https://react-icons.github.io/react-icons/)**: Include popular icons in your React projects easily.
 - **[Font Awesome](https://fontawesome.com/)**: A comprehensive library of icons for use in web projects.
@@ -198,39 +203,39 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Material Icons](https://material.io/resources/icons/)**: Material design icons by Google.
 - **[Bootstrap Icons](https://icons.getbootstrap.com/)**: Official open-source SVG icon library for Bootstrap.
 
-## Animations
+### Animations
 
 - **[Framer Motion](https://www.framer.com/motion/)**: A production-ready motion library for React.
 - **[React Spring](https://www.react-spring.dev/)**: A spring-physics-based animation library for React.
 
-## Maps
+### Maps
 
 - **[React Leaflet](https://react-leaflet.js.org/)**: A React wrapper for Leaflet, an open-source JavaScript library for mobile-friendly interactive maps.
 - **[Google Maps React](https://github.com/google-map-react/google-map-react)**: A library for embedding Google Maps into React applications.
 
-## File Upload
+### File Upload
 
 - **[React Dropzone](https://react-dropzone.js.org/)**: Simple HTML5 drag-and-drop zone with React.
 - **[Uppy](https://uppy.io/)**: Sleek, modular file uploader for React.
 
-## Real-time Communication
+### Real-time Communication
 
 - **[Socket.IO](https://socket.io/)**: Enables real-time, bidirectional and event-based communication.
 - **[Pusher](https://pusher.com/)**: Provides hosted APIs to build real-time apps with WebSockets.
 
-## Video & Audio
+### Video & Audio
 
 - **[React Player](https://github.com/cookpete/react-player)**: A React component for playing a variety of URLs, including YouTube, SoundCloud, and more.
 - **[React Webcam](https://github.com/mozmorris/react-webcam)**: A React component for accessing the user's webcam.
 - **[React Sound](https://github.com/leoasis/react-sound)**: A sound component to play audio in your React applications.
 
-## SEO
+### SEO
 
 - **[React Helmet](https://github.com/nfl/react-helmet)**: A reusable React component that manages changes to the document head.
 - **[React Meta Tags](https://www.npmjs.com/package/react-meta-tags)**: A library for managing meta tags in React applications.
 - **[Next SEO](https://github.com/garmeeh/next-seo)**: A plugin that makes managing SEO easier in Next.js projects.
 
-## Validations
+### Validations
 
 - **[Yup](https://www.npmjs.com/package/yup)**: A JavaScript schema builder for value parsing and validation.
 - **[Joi](https://joi.dev/)**: A powerful schema description language and data validator for JavaScript.
@@ -239,34 +244,34 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Vest](https://vestjs.dev/)**: A validations framework inspired by unit testing libraries.
 - **[Zod](https://zod.dev/)**: A TypeScript-first schema declaration and validation library.
 
-## GraphQL
+### GraphQL
 
 - **[Apollo Client](https://www.apollographql.com/docs/react/)**: A comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL.
 - **[Relay](https://relay.dev/)**: A JavaScript framework for building data-driven React applications powered by GraphQL.
 
-## Bundlers
+### Bundlers
 
 - **[Webpack](https://webpack.js.org/)**: A static module bundler for modern JavaScript applications.
 - **[Vite](https://vitejs.dev/)**: A next-generation frontend tooling that focuses on speed and performance.
 - **[Parcel](https://parceljs.org/)**: A zero-configuration build tool for the web.
 
-## Linting & Formatting
+### Linting & Formatting
 
 - **[ESLint](https://eslint.org/)**: A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
 - **[Prettier](https://prettier.io/)**: An opinionated code formatter that supports many languages and integrates with most editors.
 
-## DevTools
+### DevTools
 
 - **[React Developer Tools](https://react.dev/learn/react-developer-tools)**: Official React DevTools for inspecting React component hierarchy.
 - **[Redux DevTools](https://redux.js.org/tutorials/fundamentals/part-4-store#redux-devtools)**: DevTools for Redux to help debug application state changes.
 
-## Testing
+### Testing
 
 - **[Jest](https://jestjs.io/)**: Delightful JavaScript Testing Framework with a focus on simplicity.
 - **[Vitest](https://vitest.dev/)**: A blazing fast unit test framework powered by Vite.
 - **[Playwright](https://playwright.dev/)**: End-to-end testing framework for web apps, with support for multiple browsers.
 
-## Documentation
+### Documentation
 
 - **[Storybook](https://storybook.js.org/)**: A tool for UI development that allows you to create and test components in isolation.
 - **[Docz](https://www.docz.site/)**: It makes it easy to write and publish beautiful interactive documentation for your code.
@@ -275,34 +280,34 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Styleguidist](https://react-styleguidist.js.org/)**: Isolated React component development environment with a living style guide.
 - **[Nextra](https://nextra.site/)**: Simple, powerful and flexible site generation framework with everything you love from Next.js.
 
-## Internationalization
+### Internationalization
 
 - **[Format.JS](https://formatjs.github.io/)**: Internationalization library for React, part of FormatJS.
 - **[i18next](https://www.i18next.com/)**: A powerful internationalization framework for JavaScript, including React.
 
-## Performance Optimization
+### Performance Optimization
 
 - **[React Lazy Load](https://github.com/loktar00/react-lazy-load)**: A library that helps you defer loading content in your React application until it becomes visible in the viewport.
 - **[React Window](https://react-window.vercel.app/)**: A library for rendering large lists and tabular data efficiently.
 
-## Error Handling
+### Error Handling
 
 - **[React Error Boundary](https://www.npmjs.com/package/react-error-boundary)**: A React component that catches JavaScript errors anywhere in their child component tree, logs those errors, and displays a fallback UI.
 - **[Sentry](https://sentry.io/for/react/)**: A monitoring platform that helps you identify and fix issues in your React applications in real-time.
 
-## Code Splitting
+### Code Splitting
 
 - **[Loadable Components](https://loadable-components.com/)**: A library for code-splitting React components and loading them on demand.
 - **[React Loadable](https://github.com/jamiebuilds/react-loadable)**: A higher order component for loading components with dynamic imports.
 
-## Hosting
+### Hosting
 
 - **[Vercel](https://vercel.com/)**: A platform for frontend frameworks and static sites, built to integrate with your headless content, commerce, or database.
 - **[Netlify](https://www.netlify.com/)**: A platform for automating modern web projects, with continuous deployment, serverless functions, and more.
 - **[Firebase](https://firebase.google.com/)**: A comprehensive app development platform that provides hosting for static and dynamic content, as well as backend services.
 - **[AWS Amplify](https://aws.amazon.com/es/amplify/)**: A set of tools and services that enables mobile and front-end web developers to build secure, scalable full-stack applications.
 
-## API Clients & Data Fetching
+### API Clients & Data Fetching
 
 - **[Axios](https://axios-http.com/)**: A promise-based HTTP client for the browser and Node.js.
 - **[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)**: A modern interface for making HTTP requests in the browser.
@@ -310,7 +315,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Tanstack Query](https://tanstack.com/query/latest)**: Powerful asynchronous state management, server-state utilities, and data fetching for TS/JS, React, Solid, Vue, Svelte, and more.
 - **[GraphQL Request](https://github.com/graffle-js/graffle)**: A minimal GraphQL client for making requests to GraphQL endpoints.
 
-## Visual Studio Code Extensions
+### Visual Studio Code Extensions
 
 > Explore these Visual Studio Code extensions to enhance your development workflow. These tools provide powerful features for code editing, debugging, and collaboration, making it easier to build and maintain your React projects efficiently.
 
@@ -333,7 +338,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)**: Intelligent Tailwind CSS tooling for VS Code
 - **[Nova.js Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=novajs.nova-js-vsce)**: Add dependency-free React hooks to your project without leaving VS Code
 
-## Live Coding Tools
+### Live Coding Tools
 
 > Explore these online coding platforms to create, share, and collaborate on React projects in real-time. These tools provide a fast and secure environment for web development, making it easy to test and deploy your applications.
 
@@ -342,8 +347,6 @@ pnpm add -g react-frontend-toolkit-cli
 - **[JSFiddle](https://jsfiddle.net/)**: An online code editor and playground for testing and sharing HTML, CSS, and JavaScript code snippets, including React.
 - **[CodePen](https://codepen.io/)**: A social development environment for front-end designers and developers, offering a platform to build and share React projects.
 - **[Repl.it](https://replit.com/)**: An online coding platform that supports multiple programming languages, including JavaScript and React, for collaborative coding and learning.
-
-## Learning
 
 ### Popular Platforms
 
