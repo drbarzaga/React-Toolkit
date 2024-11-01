@@ -279,6 +279,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Jest](https://jestjs.io/)**: Delightful JavaScript Testing Framework with a focus on simplicity.
 - **[Vitest](https://vitest.dev/)**: A blazing fast unit test framework powered by Vite.
 - **[Playwright](https://playwright.dev/)**: End-to-end testing framework for web apps, with support for multiple browsers.
+- **[Cypress](https://www.cypress.io/)**: Fast, easy and reliable testing for anything that runs in a browser.
 
 ### Documentation
 
