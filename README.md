@@ -358,7 +358,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[StackBlitz](https://stackblitz.com/)**: An online IDE for web development, providing a fast and secure environment to build and deploy React applications.
 - **[JSFiddle](https://jsfiddle.net/)**: An online code editor and playground for testing and sharing HTML, CSS, and JavaScript code snippets, including React.
 - **[CodePen](https://codepen.io/)**: A social development environment for front-end designers and developers, offering a platform to build and share React projects.
-- **[Repl.it](https://replit.com/)**: An online coding platform that supports multiple programming languages, including JavaScript and React, for collaborative coding and learning.
+- **[Replit](https://replit.com/)**: An online coding platform that supports multiple programming languages, including JavaScript and React, for collaborative coding and learning.
 
 ### Popular Platforms
 
