@@ -57,6 +57,7 @@ pnpm add -g react-frontend-toolkit-cli
 
 ### Table of Contents
 
+- [Frameworks](#frameworks)
 - [Authentication](#authentication)
 - [Routing](#routing)
 - [Drag & Drop](#drag--drop)
@@ -100,6 +101,14 @@ pnpm add -g react-frontend-toolkit-cli
 - [Contributors](#contributors)
 - [Support](#support)
 - [Contact](#contact)
+
+### Frameworks
+
+- **[Next.js](https://nextjs.org/)**: A React framework that enables server-side rendering and static site generation for building fast and SEO-friendly web applications.
+- **[Gatsby](https://www.gatsbyjs.com/)**: A React-based open-source framework for creating fast, secure, and powerful websites using modern web technologies.
+- **[Remix](https://remix.run/)**: A full stack web framework that lets you focus on the user interface and works seamlessly with React.
+- **[Blitz.js](https://blitzjs.com/)**: A framework built on top of Next.js, providing a full-stack experience with a focus on developer productivity.
+- **[RedwoodJS](https://redwoodjs.com/)**: An opinionated, full-stack, serverless web application framework built on React, GraphQL, and Prisma.
 
 ### Authentication
 
@@ -368,19 +377,19 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)**: Offers in-depth tutorials on React and other programming languages and frameworks.
 - **[freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)**: Provides full-length courses and tutorials on React and other web development technologies.
 
-## 🧩 Contributing
+### 🧩 Contributing
 
 Contributions are welcome! If you have any libraries or tools that you think should be included in this collection, feel free to open an issue or submit a pull request.
 
-## 📃 License
+### 📃 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## ✨ Acknowledgements
+### ✨ Acknowledgements
 
 Special thanks to all the developers and contributors of the libraries and tools listed in this collection. Your hard work and dedication make the React ecosystem better for everyone.
 
-## 🤝 Contributors
+### 🤝 Contributors
 
 Thanks to the following people who have contributed to this project:
 
@@ -390,7 +399,7 @@ Thanks to the following people who have contributed to this project:
 
 If you would like to contribute, please check out the [contributing guidelines](CONTRIBUTING.md).
 
-## ❤️ Support
+### ❤️ Support
 
 If you find this collection helpful, please consider giving it a star ⭐ on GitHub. Your support is greatly appreciated!
 
@@ -406,7 +415,7 @@ You can also support me by buying me a coffee:
   <img src="assets/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="200" />
 </div>
 
-## ✉️ Contact
+### ✉️ Contact
 
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
