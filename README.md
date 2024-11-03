@@ -165,7 +165,11 @@ pnpm add -g react-frontend-toolkit-cli
 
 - **[Sonner](https://sonner.emilkowal.ski/)**: An opinionated toast component for React.
 - **[React Toastify](https://fkhadra.github.io/react-toastify/introduction/)**: A popular library for adding customizable and easy-to-use toast notifications to your React applications.
-- **[Notistack](https://notistack.com/)**: A React library which makes it super easy to display notifications on your web apps.
+- **[Notistack](https://notistack.com/)**: Highly customizable notification snackbars (toasts) that can be stacked on top of each other.
+- **[Reapop](https://louisbarranqueiro.github.io/reapop/)**: A simple and customizable React notifications system.
+- **[React Hot Toast](https://react-hot-toast.com/)**: A super easy toast library for React.
+- **[React Notification System](https://igorprado.github.io/react-notification-system/)**: A complete and totally customizable component for notifications in React.
+- **[React Toast Notifications](https://jossmac.github.io/react-toast-notifications/)**: A toast notification system for react.
 
 ### State Management
 
