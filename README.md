@@ -164,6 +164,8 @@ pnpm add -g react-frontend-toolkit-cli
 ### Notifications
 
 - **[Sonner](https://sonner.emilkowal.ski/)**: An opinionated toast component for React.
+- **[React Toastify](https://fkhadra.github.io/react-toastify/introduction/)**: A popular library for adding customizable and easy-to-use toast notifications to your React applications.
+- **[Notistack](https://notistack.com/)**: A React library which makes it super easy to display notifications on your web apps.
 
 ### State Management
 
@@ -198,13 +200,23 @@ pnpm add -g react-frontend-toolkit-cli
 ### UI Frameworks
 
 - **[Shadcn UI](https://ui.shadcn.com/)**: A modern UI framework for building responsive and accessible web applications.
+- **[Radix UI](https://www.radix-ui.com/)**: An open source component library optimized for fast development, easy maintenance, and accessibility.
+- **[Material UI](https://mui.com/material-ui/)**: An open-source React component library that implements Google's Material Design.
+- **[Next UI](https://nextui.org/)**: A modern design system for building beautiful React applications.
+- **[Evergreen](https://evergreen.segment.com/)**: A React UI Framework for building ambitious products on the web.
 - **[Chakra UI](https://www.chakra-ui.com/)**: A simple, modular, and accessible component library that gives you the building blocks to build your React applications.
 - **[Mantine](https://mantine.dev/)**: A fully featured React components library with native dark theme support.
 - **[Ant Design](https://ant.design/)**: A design system with values of Nature and Determinacy for better user experience of enterprise applications.
 - **[Blueprint](https://blueprintjs.com/)**: A React-based UI toolkit for the web.
 - **[FluentUI](https://react.fluentui.dev/?path=/docs/concepts-introduction--docs)**: A collection of UX frameworks from Microsoft that help you build web apps that match the Microsoft Design Language
 - **[Ariakit](https://ariakit.org/)**: A modern React UI library that helps you build fast, accessible, and responsive web applications.
-- **[React Email](https://react.email/)**: A collection of high-quality, unstyled components for creating beautiful emails using React and TypeScript.
+- **[NativeBase](https://nativebase.io/)**: Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
+- **[React Bootstrap](https://react-bootstrap.github.io/)**: Bootstrap components built with React.
+- **[Grommet](https://v2.grommet.io/)**: Build responsive and accessible mobile-first projects for the web with an easy to use component library.
+- **[Reakit](https://reakit.io/)**: Toolkit for building accessible web apps with React.
+- **[PrimeReact](https://primereact.org/)**: A comprehensive suite of customizable, feature-rich UI components.
+- **[Headless UI](https://headlessui.dev/)**: A set of completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+- **[React Email](https://react.email/)**: An open source component library optimized for fast development, easy maintenance, and accessibility.
 
 ### Icons
 
