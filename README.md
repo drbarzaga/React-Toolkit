@@ -5,7 +5,7 @@
 <div align="left" style="font-family: Roboto, sans-serif; font-size: 16px; line-height: 1.6;">
 
 A curated list of essential libraries and tools for frontend developers, with a focus on React. From UI components and styling frameworks to state management, form handling, animations, testing, and utilities, this collection serves as a comprehensive toolkit to streamline and enhance your web development projects. Ideal for developers looking to build robust, scalable, and high-performance applications 🚀.
-  
+
 </div>
 
 <div align="center">
@@ -97,6 +97,7 @@ pnpm add -g react-frontend-toolkit-cli
 - [Popular Platforms](#popular-platforms)
 - [GitHub Repositories](#github-repositories)
 - [YouTube Channels](#youtube-channels)
+- [Forums](#forums)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -401,6 +402,13 @@ pnpm add -g react-frontend-toolkit-cli
 - **[The Net Ninja](https://www.youtube.com/c/TheNetNinja)**: Features a wide range of tutorials on React and other web development topics.
 - **[Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)**: Offers in-depth tutorials on React and other programming languages and frameworks.
 - **[freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)**: Provides full-length courses and tutorials on React and other web development technologies.
+
+### Forums
+
+- **[DEV’s React community](https://dev.to/t/react)**
+- **[Hashnode’s React community](https://hashnode.com/n/reactjs)**
+- **[Reactiflux online chat](https://discord.gg/reactiflux)**
+- **[Reddit’s React community](https://www.reddit.com/r/reactjs/)**
 
 ### 🧩 Contributing
 
