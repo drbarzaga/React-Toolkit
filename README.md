@@ -223,6 +223,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Reakit](https://reakit.io/)**: Toolkit for building accessible web apps with React.
 - **[PrimeReact](https://primereact.org/)**: A comprehensive suite of customizable, feature-rich UI components.
 - **[ZenUI](https://zenui.net/)**: An Tailwind CSS components library for any needs. Comes with UI examples & blocks, templates, Icons, Color Palette and more.
+- **[FlyonUI](https://flyonui.com/)**: An open-source Tailwind CSS Components Library with semantic classes and powerful JS plugins.
 - **[Headless UI](https://headlessui.dev/)**: A set of completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - **[React Email](https://react.email/)**: An open source component library optimized for fast development, easy maintenance, and accessibility.
 
