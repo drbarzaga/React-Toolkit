@@ -71,7 +71,7 @@ pnpm add -g react-frontend-toolkit-cli
 - [Styling](#styling)
 - [Charts](#charts)
 - [Virtualization](#virtualization)
-- [UI Frameworks](#ui-frameworks)
+- [UI Components](#ui-components)
 - [Icons](#icons)
 - [Animations](#animations)
 - [Maps](#maps)
@@ -204,7 +204,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Virtua](https://github.com/inokawa/virtua)**: A virtual list and grid library for React.
 - **[Tanstack Virtual](https://tanstack.com/virtual/latest)**: A powerful virtual list and grid library for React applications.
 
-### UI Frameworks
+### UI Components
 
 - **[Shadcn UI](https://ui.shadcn.com/)**: A modern UI framework for building responsive and accessible web applications.
 - **[Radix UI](https://www.radix-ui.com/)**: An open source component library optimized for fast development, easy maintenance, and accessibility.
