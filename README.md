@@ -209,6 +209,8 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Shadcn UI](https://ui.shadcn.com/)**: A modern UI framework for building responsive and accessible web applications.
 - **[Radix UI](https://www.radix-ui.com/)**: An open source component library optimized for fast development, easy maintenance, and accessibility.
 - **[Material UI](https://mui.com/material-ui/)**: An open-source React component library that implements Google's Material Design.
+- **[Material Tailwind](https://www.material-tailwind.com/)**: An open-source library that uses the power of Tailwind CSS and React to help you build unique web projects faster and easier.
+- **[Flowbite React](https://flowbite-react.com/)**: An open-source UI component library built on top of Tailwind CSS with React components and based on the Flowbite Design System.
 - **[Next UI](https://nextui.org/)**: A modern design system for building beautiful React applications.
 - **[Evergreen](https://evergreen.segment.com/)**: A React UI Framework for building ambitious products on the web.
 - **[Chakra UI](https://www.chakra-ui.com/)**: A simple, modular, and accessible component library that gives you the building blocks to build your React applications.
