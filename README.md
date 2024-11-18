@@ -208,6 +208,7 @@ pnpm add -g react-frontend-toolkit-cli
 ### UI Components
 
 - **[Shadcn UI](https://ui.shadcn.com/)**: A modern UI framework for building responsive and accessible web applications.
+- **[Eldora UI](https://www.eldoraui.site/)**: An open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
 - **[Radix UI](https://www.radix-ui.com/)**: An open source component library optimized for fast development, easy maintenance, and accessibility.
 - **[Material UI](https://mui.com/material-ui/)**: An open-source React component library that implements Google's Material Design.
 - **[Material Tailwind](https://www.material-tailwind.com/)**: An open-source library that uses the power of Tailwind CSS and React to help you build unique web projects faster and easier.
