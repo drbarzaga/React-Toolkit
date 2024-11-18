@@ -133,6 +133,7 @@ pnpm add -g react-frontend-toolkit-cli
 
 ### Drag & Drop
 
+- **[Swapy](https://swapy.tahazsh.com/)**: A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code.
 - **[DnDKit](https://dndkit.com/)**: A lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - **[React Beautiful DnD](https://github.com/atlassian/react-beautiful-dnd)**: A powerful and beautiful drag-and-drop library for lists with React.
 - **[React DnD](https://react-dnd.github.io/react-dnd/about)**: A set of React utilities to help you build complex drag-and-drop interfaces.
