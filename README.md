@@ -68,6 +68,7 @@ pnpm add -g react-frontend-toolkit-cli
 - [Hooks](#hooks)
 - [Notifications](#notifications)
 - [State Management](#state-management)
+- [Data Fetching](#data-fetching)
 - [Styling](#styling)
 - [Charts](#charts)
 - [Virtualization](#virtualization)
@@ -75,10 +76,10 @@ pnpm add -g react-frontend-toolkit-cli
 - [Icons](#icons)
 - [Animations](#animations)
 - [Maps](#maps)
-- [File Upload](#file-upload)
+- [File Uploads](#file-uploads)
 - [Real-time Communication](#real-time-communication)
-- [Video & Audio](#video--audio)
-- [SEO](#seo)
+- [Audio & Video](#audio--video)
+- [Search Engine Optimization](#search-engine-optimization)
 - [Validations](#validations)
 - [GraphQL](#graphql)
 - [Bundlers](#bundlers)
@@ -91,7 +92,6 @@ pnpm add -g react-frontend-toolkit-cli
 - [Error Handling](#error-handling)
 - [Code Splitting](#code-splitting)
 - [Hosting](#hosting)
-- [API Clients & Data Fetching](#api-clients--data-fetching)
 - [Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Live Coding Tools](#live-coding-tools)
 - [Popular Platforms](#popular-platforms)
@@ -182,6 +182,14 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Redux Toolkit](https://redux-toolkit.js.org/)**: The official, recommended way to write Redux logic.
 - **[Recoil](https://recoiljs.org/)**: A state management library for React that makes it easy to share state across components.
 
+### Data Fetching
+
+- **[Axios](https://axios-http.com/)**: A promise-based HTTP client for the browser and Node.js.
+- **[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)**: A modern interface for making HTTP requests in the browser.
+- **[SWR](https://swr.vercel.app/)**: React Hooks library for remote data fetching.
+- **[Tanstack Query](https://tanstack.com/query/latest)**: Powerful asynchronous state management, server-state utilities, and data fetching for TS/JS, React, Solid, Vue, Svelte, and more.
+- **[GraphQL Request](https://github.com/graffle-js/graffle)**: A minimal GraphQL client for making requests to GraphQL endpoints.
+
 ### Styling
 
 - **[TailwindCss](https://tailwindcss.com/)**: A utility-first CSS framework for rapidly building custom user interfaces.
@@ -252,7 +260,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[React Leaflet](https://react-leaflet.js.org/)**: A React wrapper for Leaflet, an open-source JavaScript library for mobile-friendly interactive maps.
 - **[Google Maps React](https://github.com/google-map-react/google-map-react)**: A library for embedding Google Maps into React applications.
 
-### File Upload
+### File Uploads
 
 - **[React Dropzone](https://react-dropzone.js.org/)**: Simple HTML5 drag-and-drop zone with React.
 - **[Uppy](https://uppy.io/)**: Sleek, modular file uploader for React.
@@ -262,13 +270,13 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Socket.IO](https://socket.io/)**: Enables real-time, bidirectional and event-based communication.
 - **[Pusher](https://pusher.com/)**: Provides hosted APIs to build real-time apps with WebSockets.
 
-### Video & Audio
+### Audio & Video
 
 - **[React Player](https://github.com/cookpete/react-player)**: A React component for playing a variety of URLs, including YouTube, SoundCloud, and more.
 - **[React Webcam](https://github.com/mozmorris/react-webcam)**: A React component for accessing the user's webcam.
 - **[React Sound](https://github.com/leoasis/react-sound)**: A sound component to play audio in your React applications.
 
-### SEO
+### Search Engine Optimization
 
 - **[React Helmet](https://github.com/nfl/react-helmet)**: A reusable React component that manages changes to the document head.
 - **[React Meta Tags](https://www.npmjs.com/package/react-meta-tags)**: A library for managing meta tags in React applications.
@@ -346,14 +354,6 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Netlify](https://www.netlify.com/)**: A platform for automating modern web projects, with continuous deployment, serverless functions, and more.
 - **[Firebase](https://firebase.google.com/)**: A comprehensive app development platform that provides hosting for static and dynamic content, as well as backend services.
 - **[AWS Amplify](https://aws.amazon.com/es/amplify/)**: A set of tools and services that enables mobile and front-end web developers to build secure, scalable full-stack applications.
-
-### API Clients & Data Fetching
-
-- **[Axios](https://axios-http.com/)**: A promise-based HTTP client for the browser and Node.js.
-- **[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)**: A modern interface for making HTTP requests in the browser.
-- **[SWR](https://swr.vercel.app/)**: React Hooks library for remote data fetching.
-- **[Tanstack Query](https://tanstack.com/query/latest)**: Powerful asynchronous state management, server-state utilities, and data fetching for TS/JS, React, Solid, Vue, Svelte, and more.
-- **[GraphQL Request](https://github.com/graffle-js/graffle)**: A minimal GraphQL client for making requests to GraphQL endpoints.
 
 ### Visual Studio Code Extensions
 
