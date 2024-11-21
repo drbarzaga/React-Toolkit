@@ -207,6 +207,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[ECharts for React](https://git.hust.cc/echarts-for-react/)**: A React wrapper for Apache ECharts.
 - **[Visx](https://airbnb.io/visx/)**: A collection of low-level visualization components for React.
 - **[React Flow](https://reactflow.dev/)**: A customizable React component for building node-based editors and interactive diagrams.
+- **[Apache ECharts](https://echarts.apache.org/)**: Apache ECharts is a powerful, interactive charting and data visualization library for browser.
 
 ### Virtualization
 
@@ -220,6 +221,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Radix UI](https://www.radix-ui.com/)**: An open source component library optimized for fast development, easy maintenance, and accessibility.
 - **[Material UI](https://mui.com/material-ui/)**: An open-source React component library that implements Google's Material Design.
 - **[Material Tailwind](https://www.material-tailwind.com/)**: An open-source library that uses the power of Tailwind CSS and React to help you build unique web projects faster and easier.
+- **[React Spectrum Libraries](https://react-spectrum.adobe.com/)**: A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - **[Flowbite React](https://flowbite-react.com/)**: An open-source UI component library built on top of Tailwind CSS with React components and based on the Flowbite Design System.
 - **[Next UI](https://nextui.org/)**: A modern design system for building beautiful React applications.
 - **[Evergreen](https://evergreen.segment.com/)**: A React UI Framework for building ambitious products on the web.
@@ -337,6 +339,8 @@ pnpm add -g react-frontend-toolkit-cli
 
 - **[React Lazy Load](https://github.com/loktar00/react-lazy-load)**: A library that helps you defer loading content in your React application until it becomes visible in the viewport.
 - **[React Window](https://react-window.vercel.app/)**: A library for rendering large lists and tabular data efficiently.
+- **[React Scan](https://react-scan.million.dev/)**: Scan for React performance issues and eliminate slow renders in your app.
+- **[Million](https://million.dev/)**: A React performance tool that helps you identify and fix performance issues in your React applications.
 
 ### Error Handling
 
