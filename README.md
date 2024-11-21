@@ -59,6 +59,7 @@ pnpm add -g react-frontend-toolkit-cli
 
 ### Table of Contents
 
+- [Official Resources](#official-resources)
 - [Frameworks](#frameworks)
 - [Authentication](#authentication)
 - [Routing](#routing)
@@ -104,6 +105,16 @@ pnpm add -g react-frontend-toolkit-cli
 - [Contributors](#contributors)
 - [Support](#support)
 - [Contact](#contact)
+
+### Official Resources
+
+- **[React Website](https://react.dev/)**
+- **[React Repository](https://github.com/facebook/react)**
+- **[React Community](https://react.dev/community)**
+- **[React Blog](https://react.dev/blog)**
+- **[React Conferences](https://react.dev/community/conferences)**
+- **[React Discord](https://www.reactiflux.com/)**
+- **[React Quick Start Tutorial](https://react.dev/learn)**
 
 ### Frameworks
 
