@@ -123,6 +123,8 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Remix](https://remix.run/)**: A full stack web framework that lets you focus on the user interface and works seamlessly with React.
 - **[Blitz.js](https://blitzjs.com/)**: A framework built on top of Next.js, providing a full-stack experience with a focus on developer productivity.
 - **[RedwoodJS](https://redwoodjs.com/)**: An opinionated, full-stack, serverless web application framework built on React, GraphQL, and Prisma.
+- **[React Admin](https://marmelab.com/react-admin/)**: A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design.
+- **[Refine](https://refine.dev/)**: A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
 ### Authentication
 
@@ -171,7 +173,7 @@ pnpm add -g react-frontend-toolkit-cli
 
 ### Hooks
 
-- **[novajs](https://novajs.co/)**: A collection of dependency-free React hooks.
+- **[Novajs](https://novajs.co/)**: A collection of dependency-free React hooks.
 - **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
 - **[React Use](https://github.com/streamich/react-use)**: A library of essential React hooks.
 - **[ahooks](https://ahooks.js.org/)**: A set of high-quality and reliable React hooks.
