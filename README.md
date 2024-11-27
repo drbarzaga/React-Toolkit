@@ -173,6 +173,7 @@ pnpm add -g react-frontend-toolkit-cli
 
 ### Hooks
 
+- **[usehooks-ts](https://usehooks-ts.com/)**: React hook library, ready to use, written in Typescript.
 - **[Novajs](https://novajs.co/)**: A collection of dependency-free React hooks.
 - **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
 - **[React Use](https://github.com/streamich/react-use)**: A library of essential React hooks.
