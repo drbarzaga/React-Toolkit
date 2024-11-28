@@ -135,7 +135,6 @@ pnpm add -g react-frontend-toolkit-cli
 - **[AWS Amplify Auth](https://docs.amplify.aws/lib/auth/getting-started/q/platform/js/)**: Provides authentication APIs and building blocks for developers who want to create secure applications.
 - **[Supabase Auth](https://supabase.io/docs/guides/auth)**: An open-source Firebase alternative that offers authentication services.
 - **[Clerk](https://clerk.dev/)**: Authentication and user management for modern applications.
-- **[Magic](https://magic.link/)**: Passwordless authentication solution for seamless user experiences.
 
 ### Routing
 
