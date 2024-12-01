@@ -152,6 +152,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[SortableJS](https://github.com/SortableJS/react-sortablejs)**: A React wrapper for SortableJS, a library for reorderable drag-and-drop lists.
 - **[React Dragula](https://github.com/bevacqua/react-dragula)**: A drag-and-drop library for React based on Dragula.
 - **[React Complex Tree](https://rct.lukasbach.com/)**: Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop.
+- **[FormKit’s Drag and Drop](https://drag-and-drop.formkit.com/)**:A small library for adding data-first drag and drop sorting and transferring for lists in your app. It’s simple, flexible, framework agnostic, and clocks in at only ~4Kb gzipped.
 
 ### Tables
 
