@@ -222,6 +222,7 @@ pnpm add -g react-frontend-toolkit-cli
 - **[Visx](https://airbnb.io/visx/)**: A collection of low-level visualization components for React.
 - **[React Flow](https://reactflow.dev/)**: A customizable React component for building node-based editors and interactive diagrams.
 - **[Apache ECharts](https://echarts.apache.org/)**: Apache ECharts is a powerful, interactive charting and data visualization library for browser.
+- **[Unovis](https://unovis.dev/)** A modular data visualization framework for React, Angular, Svelte, Vue, Solid.
 
 ### Virtualization
 
