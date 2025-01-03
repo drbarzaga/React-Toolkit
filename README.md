@@ -480,7 +480,7 @@ You can also support me by buying me a coffee:
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
 - **Email**: [dayan.perez9012@gmail.com](mailto:dayan.perez9012@gmail.com)
-- **Twitter**: [@dayanDev](https://twitter.com/dayanDev)
+- **X**: [@dayanDev](https://twitter.com/dayanDev)
 - **LinkedIn**: [Dayan Perez](https://www.linkedin.com/in/drbarzaga/)
 
 We look forward to hearing from you!
