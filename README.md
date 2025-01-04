@@ -260,6 +260,7 @@ pnpm add -g react-frontend-toolkit-cli
 
 ### Icons
 
+- **[Lucide](https://lucide.dev/)**: Beautiful and consistent icons made by the community.
 - **[React Icons](https://react-icons.github.io/react-icons/)**: Include popular icons in your React projects easily.
 - **[Font Awesome](https://fontawesome.com/)**: A comprehensive library of icons for use in web projects.
 - **[Heroicons](https://heroicons.com/)**: Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
