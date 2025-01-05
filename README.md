@@ -1,4 +1,4 @@
-## 🧰 React Frontend Toolkit
+## 🧰 React Toolkit
 
 ### ℹ️ About
 
@@ -39,7 +39,7 @@ Thank you for spreading the word!
 
 ### 🚀 React Frontend Toolkit CLI
 
-To make it easy to access all the tools mentioned here, we designed the React Frontend Toolkit CLI, a command-line interface that provides access to this list of tools and packages directly from your terminal. For more detailed usage instructions and examples, please refer to the [official documentation](https://github.com/drbarzaga/React-Frontend-Toolkit-CLI#readme).
+To make it easy to access all the tools mentioned here, we designed the React Toolkit CLI, a command-line interface that provides access to this list of tools and packages directly from your terminal. For more detailed usage instructions and examples, please refer to the [official documentation](https://github.com/drbarzaga/React-Toolkit-CLI#readme).
 
 ### Installation
 
@@ -455,8 +455,8 @@ Special thanks to all the developers and contributors of the libraries and tools
 
 Thanks to the following people who have contributed to this project:
 
-<a href="https://github.com/drbarzaga/react-frontend-toolkit/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=drbarzaga/react-frontend-toolkit" />
+<a href="https://github.com/drbarzaga/react-toolkit/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=drbarzaga/react-toolkit" />
 </a>
 
 If you would like to contribute, please check out the [contributing guidelines](CONTRIBUTING.md).
