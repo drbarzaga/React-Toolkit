@@ -10,11 +10,11 @@ A curated list of essential libraries and tools for frontend developers, with a 
 
 <div align="center">
   
-![GitHub stars](https://img.shields.io/github/stars/drbarzaga/react-frontend-toolkit?style=social)
-![GitHub forks](https://img.shields.io/github/forks/drbarzaga/react-frontend-toolkit?style=social)
-![GitHub issues](https://img.shields.io/github/issues/drbarzaga/react-frontend-toolkit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/drbarzaga/react-frontend-toolkit)
-![GitHub license](https://img.shields.io/github/license/drbarzaga/react-frontend-toolkit)
+![GitHub stars](https://img.shields.io/github/stars/drbarzaga/react-toolkit?style=social)
+![GitHub forks](https://img.shields.io/github/forks/drbarzaga/react-toolkit?style=social)
+![GitHub issues](https://img.shields.io/github/issues/drbarzaga/react-toolkit)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/drbarzaga/react-toolkit)
+![GitHub license](https://img.shields.io/github/license/drbarzaga/react-toolkit)
 
 </div>
 
@@ -28,10 +28,10 @@ If you enjoyed this project, please share it with your friends and colleagues on
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-Share-blue?logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20React%20toolkit%20collection!%20https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-frontend-toolkit)
-[![Facebook](https://img.shields.io/badge/Facebook-Share-blue?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-frontend-toolkit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Share-blue?logo=linkedin)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-frontend-toolkit&title=React%20Toolkit%20Collection&summary=Check%20out%20this%20awesome%20React%20toolkit%20collection!&source=LinkedIn)
-[![Reddit](https://img.shields.io/badge/Reddit-Share-orange?logo=reddit)](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-frontend-toolkit&title=React%20Toolkit%20Collection)
+[![Twitter](https://img.shields.io/badge/Twitter-Share-blue?logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20React%20toolkit%20collection!%20https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freac-toolkit)
+[![Facebook](https://img.shields.io/badge/Facebook-Share-blue?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Share-blue?logo=linkedin)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit&title=React%20Toolkit%20Collection&summary=Check%20out%20this%20awesome%20React%20toolkit%20collection!&source=LinkedIn)
+[![Reddit](https://img.shields.io/badge/Reddit-Share-orange?logo=reddit)](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit&title=React%20Toolkit%20Collection)
 
 </div>
 
@@ -46,15 +46,15 @@ To make it easy to access all the tools mentioned here, we designed the React To
 You can install the CLI globally using npm, yarn, or pnpm:
 
 ```bash
-npm install -g react-frontend-toolkit-cli
+npm install -g react-toolkit-cli
 ```
 
 ```bash
-yarn global add react-frontend-toolkit-cli
+yarn global add react-toolkit-cli
 ```
 
 ```bash
-pnpm add -g react-frontend-toolkit-cli
+pnpm add -g react-toolkit-cli
 ```
 
 ### Table of Contents
