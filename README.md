@@ -18,7 +18,7 @@ A curated list of essential libraries and tools for frontend developers, with a 
 
 </div>
 
-### ⭐ Star Us on GitHub
+### ⭐ Star Us
 
 If you find this project helpful or interesting, please consider giving it a star on GitHub. Your support motivates us to keep improving and adding new features!
 
