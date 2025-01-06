@@ -46,15 +46,15 @@ To make it easy to access all the tools mentioned here, we designed the React To
 You can install the CLI globally using npm, yarn, or pnpm:
 
 ```bash
-npm install -g react-toolkit-cli
+npm install -g rft-cli
 ```
 
 ```bash
-yarn global add react-toolkit-cli
+yarn global add rft-cli
 ```
 
 ```bash
-pnpm add -g react-toolkit-cli
+pnpm add -g rft-cli
 ```
 
 ### Table of Contents
