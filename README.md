@@ -259,6 +259,7 @@ Thank you for spreading the word!
 - **[react-google-maps](https://visgl.github.io/react-google-maps/)**: React components and hooks for the Google Maps JavaScript API
 - **[React Leaflet](https://react-leaflet.js.org/)**: A React wrapper for Leaflet, an open-source JavaScript library for mobile-friendly interactive maps.
 - **[Google Maps React](https://github.com/google-map-react/google-map-react)**: A library for embedding Google Maps into React applications.
+- **[React Map GL](https://visgl.github.io/react-map-gl/)**: A React wrapper for Mapbox GL JS.
 
 ### File Uploads
 
