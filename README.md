@@ -37,26 +37,6 @@ If you enjoyed this project, please share it with your friends and colleagues on
 
 Thank you for spreading the word!
 
-### 🚀 React Toolkit CLI
-
-To make it easy to access all the tools mentioned here, we designed the React Toolkit CLI, a command-line interface that provides access to this list of tools and packages directly from your terminal. For more detailed usage instructions and examples, please refer to the [official documentation](https://github.com/drbarzaga/React-Toolkit-CLI#readme).
-
-### Installation
-
-You can install the CLI globally using npm, yarn, or pnpm:
-
-```bash
-npm install -g rft-cli
-```
-
-```bash
-yarn global add rft-cli
-```
-
-```bash
-pnpm add -g rft-cli
-```
-
 ### Table of Contents
 
 - [Official Resources](#official-resources)
