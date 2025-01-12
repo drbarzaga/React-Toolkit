@@ -93,7 +93,6 @@ Thank you for spreading the word!
 - **[React Community](https://react.dev/community)**
 - **[React Blog](https://react.dev/blog)**
 - **[React Conferences](https://react.dev/community/conferences)**
-- **[React Discord](https://www.reactiflux.com/)**
 - **[React Quick Start Tutorial](https://react.dev/learn)**
 
 ### Frameworks
