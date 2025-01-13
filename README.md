@@ -102,7 +102,6 @@ Thank you for spreading the word!
 - **[Remix](https://remix.run/)**: A full stack web framework that lets you focus on the user interface and works seamlessly with React.
 - **[Blitz.js](https://blitzjs.com/)**: A framework built on top of Next.js, providing a full-stack experience with a focus on developer productivity.
 - **[RedwoodJS](https://redwoodjs.com/)**: An opinionated, full-stack, serverless web application framework built on React, GraphQL, and Prisma.
-- **[React Admin](https://marmelab.com/react-admin/)**: A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design.
 - **[Refine](https://refine.dev/)**: A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 
 ### Authentication
