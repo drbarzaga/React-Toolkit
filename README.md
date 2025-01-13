@@ -109,8 +109,6 @@ Thank you for spreading the word!
 - **[Auth.js](https://authjs.dev/)**: Authentication for the Web. Free and open source.
 - **[Auth0](https://auth0.com/)**: A platform for securing access to your applications, devices, and users.
 - **[Okta](https://developer.okta.com/docs/guides/sign-into-spa/react/before-you-begin/)**: A complete identity management solution for your web and mobile apps.
-- **[AWS Amplify Auth](https://docs.amplify.aws/lib/auth/getting-started/q/platform/js/)**: Provides authentication APIs and building blocks for developers who want to create secure applications.
-- **[Supabase Auth](https://supabase.io/docs/guides/auth)**: An open-source Firebase alternative that offers authentication services.
 - **[Clerk](https://clerk.dev/)**: Authentication and user management for modern applications.
 
 ### Routing
