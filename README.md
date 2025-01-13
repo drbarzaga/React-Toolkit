@@ -62,7 +62,6 @@ Thank you for spreading the word!
 - [Audio & Video](#audio--video)
 - [Search Engine Optimization](#search-engine-optimization)
 - [Validations](#validations)
-- [GraphQL](#graphql)
 - [Bundlers](#bundlers)
 - [Linting & Formatting](#linting--formatting)
 - [DevTools](#devtools)
@@ -177,7 +176,6 @@ Thank you for spreading the word!
 - **[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)**: A modern interface for making HTTP requests in the browser.
 - **[SWR](https://swr.vercel.app/)**: React Hooks library for remote data fetching.
 - **[Tanstack Query](https://tanstack.com/query/latest)**: Powerful asynchronous state management, server-state utilities, and data fetching for TS/JS, React, Solid, Vue, Svelte, and more.
-- **[GraphQL Request](https://github.com/graffle-js/graffle)**: A minimal GraphQL client for making requests to GraphQL endpoints.
 
 ### Styling
 
@@ -287,11 +285,6 @@ Thank you for spreading the word!
 - **[Superstruct](https://docs.superstructjs.org/)**: A simple and composable way to validate data in JavaScript and TypeScript.
 - **[Vest](https://vestjs.dev/)**: A validations framework inspired by unit testing libraries.
 - **[Zod](https://zod.dev/)**: A TypeScript-first schema declaration and validation library.
-
-### GraphQL
-
-- **[Apollo Client](https://www.apollographql.com/docs/react/)**: A comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL.
-- **[Relay](https://relay.dev/)**: A JavaScript framework for building data-driven React applications powered by GraphQL.
 
 ### Bundlers
 
