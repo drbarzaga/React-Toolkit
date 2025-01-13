@@ -107,7 +107,6 @@ Thank you for spreading the word!
 ### Authentication
 
 - **[Auth.js](https://authjs.dev/)**: Authentication for the Web. Free and open source.
-- **[Firebase Authentication](https://firebase.google.com/docs/auth)**: Provides backend services to help authenticate users in your app.
 - **[Auth0](https://auth0.com/)**: A platform for securing access to your applications, devices, and users.
 - **[Okta](https://developer.okta.com/docs/guides/sign-into-spa/react/before-you-begin/)**: A complete identity management solution for your web and mobile apps.
 - **[AWS Amplify Auth](https://docs.amplify.aws/lib/auth/getting-started/q/platform/js/)**: Provides authentication APIs and building blocks for developers who want to create secure applications.
