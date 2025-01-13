@@ -203,8 +203,8 @@ Thank you for spreading the word!
 
 ### Virtualization
 
-- **[Virtua](https://github.com/inokawa/virtua)**: A virtual list and grid library for React.
 - **[Tanstack Virtual](https://tanstack.com/virtual/latest)**: A powerful virtual list and grid library for React applications.
+- **[Virtua](https://github.com/inokawa/virtua)**: A virtual list and grid library for React.
 
 ### UI Components
 
