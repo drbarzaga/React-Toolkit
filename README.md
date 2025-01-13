@@ -113,7 +113,7 @@ Thank you for spreading the word!
 
 ### Routing
 
-- **[Wouter](https://github.com/molefrog/wouter)**: A minimalist alternative to React Router with a small footprint.
+- **[Wouter](https://github.com/molefrog/wouter)**: A minimalist-friendly ~2.1KB routing for React and Preact.
 - **[Tanstack Router](https://tanstack.com/router/latest)**: A powerful routing library for React applications.
 - **[React Router](https://reactrouter.com/)**: The standard routing library for React applications.
 - **[Reach Router](https://reach.tech/router)**: A routing library with a focus on accessibility and simplicity.
