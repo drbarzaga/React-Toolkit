@@ -152,7 +152,7 @@ Thank you for spreading the word!
 ### Hooks
 
 - **[usehooks-ts](https://usehooks-ts.com/)**: React hook library, ready to use, written in Typescript.
-- **[Novajs](https://novajs.co/)**: A collection of dependency-free React hooks.
+- **[Novajs](https://novajs.dev/)**: A collection of dependency-free React hooks.
 - **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
 - **[React Use](https://github.com/streamich/react-use)**: A library of essential React hooks.
 - **[ahooks](https://ahooks.js.org/)**: A set of high-quality and reliable React hooks.
@@ -252,6 +252,7 @@ Thank you for spreading the word!
 
 - **[Framer Motion](https://www.framer.com/motion/)**: A production-ready motion library for React.
 - **[React Spring](https://www.react-spring.dev/)**: A spring-physics-based animation library for React.
+- **[Reactbits](https://reactbits.dev/)**: An open source React.js snippet library for animated components.
 
 ### Maps
 
