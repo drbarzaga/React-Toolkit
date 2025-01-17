@@ -102,6 +102,7 @@ Thank you for spreading the word!
 - **[Blitz.js](https://blitzjs.com/)**: A framework built on top of Next.js, providing a full-stack experience with a focus on developer productivity.
 - **[RedwoodJS](https://redwoodjs.com/)**: An opinionated, full-stack, serverless web application framework built on React, GraphQL, and Prisma.
 - **[Refine](https://refine.dev/)**: A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+- **[Tuono](https://tuono.dev/)**: A full-stack web framework for building React applications using Rust as the backend with a strong focus on usability and performance.
 
 ### Authentication
 
@@ -205,7 +206,6 @@ Thank you for spreading the word!
 - **[Apollo Client](https://www.apollographql.com/docs/react/)**: A fully-featured, production ready caching GraphQL client.
 - **[SWR](https://swr.vercel.app/)**: React Hooks library for remote data fetching.
 - **[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)**: A modern interface for making HTTP requests in the browser.
-
 
 ### Styling
 
