@@ -178,9 +178,9 @@ Thank you for spreading the word!
 
 ### Hooks
 
+- **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
 - **[usehooks-ts](https://usehooks-ts.com/)**: React hook library, ready to use, written in Typescript.
 - **[Novajs](https://novajs.dev/)**: A collection of dependency-free React hooks.
-- **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
 - **[React Use](https://github.com/streamich/react-use)**: A library of essential React hooks.
 - **[ahooks](https://ahooks.js.org/)**: A set of high-quality and reliable React hooks.
 
