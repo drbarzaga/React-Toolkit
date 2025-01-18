@@ -206,6 +206,7 @@ Thank you for spreading the word!
 - **[Apollo Client](https://www.apollographql.com/docs/react/)**: A fully-featured, production ready caching GraphQL client.
 - **[SWR](https://swr.vercel.app/)**: React Hooks library for remote data fetching.
 - **[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)**: A modern interface for making HTTP requests in the browser.
+- **[Relay](https://relay.dev/)**: A JavaScript framework for building data-driven React applications.
 
 ### Styling
 
