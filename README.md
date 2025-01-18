@@ -255,9 +255,8 @@ Thank you for spreading the word!
 - **[Framer Motion](https://www.framer.com/motion/)**: A production-ready motion library for React.
 - **[React Spring](https://www.react-spring.dev/)**: A spring-physics-based animation library for React.
 - **[Reactbits](https://reactbits.dev/)**: An open source React.js snippet library for animated components.
-- **[Blendy](https://blendy.tahazsh.com/)**: A framework-agnostic tool that smoothly transitions one element into another with just a few lines of code.
 - **[simpleParallax.js](https://simpleparallax.com/)**: simpleParallax.js is a lightweight and easy-to-use React and JS library that adds parallax animations to any image.
-
+- **[Blendy](https://blendy.tahazsh.com/)**: A framework-agnostic tool that smoothly transitions one element into another with just a few lines of code.
 
 ### Maps
 
@@ -265,7 +264,6 @@ Thank you for spreading the word!
 - **[React Leaflet](https://react-leaflet.js.org/)**: A React wrapper for Leaflet, an open-source JavaScript library for mobile-friendly interactive maps.
 - **[Google Maps React](https://github.com/google-map-react/google-map-react)**: A library for embedding Google Maps into React applications.
 - **[React Map GL](https://visgl.github.io/react-map-gl/)**: A React wrapper for Mapbox GL JS.
-
 
 ### PDFs
 
