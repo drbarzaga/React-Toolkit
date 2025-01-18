@@ -57,7 +57,7 @@ Thank you for spreading the word!
 - [Icons](#icons)
 - [Animations](#animations)
 - [Maps](#maps)
-- [File Uploads](#file-uploads)
+- [File Handling](#file-handling)
 - [Real-time Communication](#real-time-communication)
 - [Audio & Video](#audio--video)
 - [Search Engine Optimization](#search-engine-optimization)
@@ -259,10 +259,11 @@ Thank you for spreading the word!
 - **[Google Maps React](https://github.com/google-map-react/google-map-react)**: A library for embedding Google Maps into React applications.
 - **[React Map GL](https://visgl.github.io/react-map-gl/)**: A React wrapper for Mapbox GL JS.
 
-### File Uploads
+### File Handling
 
 - **[React Dropzone](https://react-dropzone.js.org/)**: Simple HTML5 drag-and-drop zone with React.
 - **[Uppy](https://uppy.io/)**: Sleek, modular file uploader for React.
+- **[react-uploady](https://react-uploady.org/)**: Modern file-upload components & hooks for React.
 
 ### Real-time Communication
 
