@@ -128,6 +128,7 @@ Thank you for spreading the word!
 - **[React Dragula](https://github.com/bevacqua/react-dragula)**: A drag-and-drop library for React based on Dragula.
 - **[React Complex Tree](https://rct.lukasbach.com/)**: Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop.
 - **[FormKit’s Drag and Drop](https://drag-and-drop.formkit.com/)**:A small library for adding data-first drag and drop sorting and transferring for lists in your app. It’s simple, flexible, framework agnostic, and clocks in at only ~4Kb gzipped.
+- **[react-movable](https://react-movable.pages.dev/)**: Drag and drop for your React lists and tables.
 
 ### UI Components
 
@@ -330,10 +331,10 @@ Thank you for spreading the word!
 
 ### Performance Optimization
 
-- **[React Lazy Load](https://github.com/loktar00/react-lazy-load)**: A library that helps you defer loading content in your React application until it becomes visible in the viewport.
-- **[React Window](https://react-window.vercel.app/)**: A library for rendering large lists and tabular data efficiently.
 - **[React Scan](https://react-scan.million.dev/)**: Scan for React performance issues and eliminate slow renders in your app.
 - **[Million](https://million.dev/)**: A React performance tool that helps you identify and fix performance issues in your React applications.
+- **[React Lazy Load](https://github.com/loktar00/react-lazy-load)**: A library that helps you defer loading content in your React application until it becomes visible in the viewport.
+- **[React Window](https://react-window.vercel.app/)**: A library for rendering large lists and tabular data efficiently.
 
 ### Error Handling
 
