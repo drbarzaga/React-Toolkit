@@ -252,6 +252,7 @@ Thank you for spreading the word!
 - **[Framer Motion](https://www.framer.com/motion/)**: A production-ready motion library for React.
 - **[React Spring](https://www.react-spring.dev/)**: A spring-physics-based animation library for React.
 - **[Reactbits](https://reactbits.dev/)**: An open source React.js snippet library for animated components.
+- **[Blendy](https://blendy.tahazsh.com/)**: A framework-agnostic tool that smoothly transitions one element into another with just a few lines of code.
 
 ### Maps
 
