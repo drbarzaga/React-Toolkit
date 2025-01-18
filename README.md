@@ -165,7 +165,6 @@ Thank you for spreading the word!
 - **[AG Grid](https://www.ag-grid.com/react-data-grid/)**: A feature-rich datagrid designed for the major JavaScript frameworks.
 - **[React Data Grid](https://adazzle.github.io/react-data-grid/)**: Excel-like grid component built with React.
 - **[Griddle](https://griddlegriddle.github.io/Griddle/)**: A simple grid component for use with React.
-- **[React Virtualized](https://github.com/bvaughn/react-virtualized)**: A set of React components for efficiently rendering large lists and tabular data.
 
 ### Forms
 
@@ -235,6 +234,7 @@ Thank you for spreading the word!
 
 - **[Tanstack Virtual](https://tanstack.com/virtual/latest)**: A powerful virtual list and grid library for React applications.
 - **[Virtua](https://github.com/inokawa/virtua)**: A virtual list and grid library for React.
+- **[React Virtualized](https://github.com/bvaughn/react-virtualized)**: A set of React components for efficiently rendering large lists and tabular data.
 
 ### Icons
 
