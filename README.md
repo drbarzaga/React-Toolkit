@@ -167,6 +167,7 @@ Thank you for spreading the word!
 - **[AG Grid](https://www.ag-grid.com/react-data-grid/)**: A feature-rich datagrid designed for the major JavaScript frameworks.
 - **[React Data Grid](https://adazzle.github.io/react-data-grid/)**: Excel-like grid component built with React.
 - **[Griddle](https://griddlegriddle.github.io/Griddle/)**: A simple grid component for use with React.
+- **[Tabulator](https://tabulator.info/)**: Interactive Tables and Data Grids.
 
 ### Forms
 
