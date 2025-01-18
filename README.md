@@ -249,6 +249,7 @@ Thank you for spreading the word!
 - **[Ionicons](https://ionicons.com/)**: Premium icons for use in web, iOS, Android, and desktop apps.
 - **[Material Icons](https://material.io/resources/icons/)**: Material design icons by Google.
 - **[Bootstrap Icons](https://icons.getbootstrap.com/)**: Official open-source SVG icon library for Bootstrap.
+- **[Svgl](https://svgl.app/)**: A beautiful library with SVG logos.
 
 ### Animations
 
