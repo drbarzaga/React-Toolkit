@@ -58,6 +58,7 @@ Thank you for spreading the word!
 - [Animations](#animations)
 - [Maps](#maps)
 - [File Handling](#file-handling)
+- [PDFs](#pdfs)
 - [Real-time Communication](#real-time-communication)
 - [Audio & Video](#audio--video)
 - [Search Engine Optimization](#search-engine-optimization)
@@ -93,6 +94,7 @@ Thank you for spreading the word!
 - **[React Blog](https://react.dev/blog)**
 - **[React Conferences](https://react.dev/community/conferences)**
 - **[React Quick Start Tutorial](https://react.dev/learn)**
+- **[Using React in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)**
 
 ### Frameworks
 
@@ -214,6 +216,7 @@ Thank you for spreading the word!
 - **[Styled Components](https://styled-components.com/)**: Utilizes tagged template literals to style your components.
 - **[Emotion](https://emotion.sh/docs/introduction)**: A performant and flexible CSS-in-JS library.
 - **[Vanilla Extract](https://vanilla-extract.style/)**: Zero-runtime Stylesheets-in-TypeScript
+- **[Stitches](https://stitches.dev/)**: CSS-in-JS with near-zero runtime, SSR, multi-variant support.
 
 ### Charts
 
@@ -253,6 +256,8 @@ Thank you for spreading the word!
 - **[React Spring](https://www.react-spring.dev/)**: A spring-physics-based animation library for React.
 - **[Reactbits](https://reactbits.dev/)**: An open source React.js snippet library for animated components.
 - **[Blendy](https://blendy.tahazsh.com/)**: A framework-agnostic tool that smoothly transitions one element into another with just a few lines of code.
+- **[simpleParallax.js](https://simpleparallax.com/)**: simpleParallax.js is a lightweight and easy-to-use React and JS library that adds parallax animations to any image.
+
 
 ### Maps
 
@@ -260,6 +265,12 @@ Thank you for spreading the word!
 - **[React Leaflet](https://react-leaflet.js.org/)**: A React wrapper for Leaflet, an open-source JavaScript library for mobile-friendly interactive maps.
 - **[Google Maps React](https://github.com/google-map-react/google-map-react)**: A library for embedding Google Maps into React applications.
 - **[React Map GL](https://visgl.github.io/react-map-gl/)**: A React wrapper for Mapbox GL JS.
+
+
+### PDFs
+
+- **[React PDF](https://react-pdf.org/)**: A React renderer for creating PDF files.
+- **[React PDF Viewer](https://react-pdf-viewer.dev/)**: A PDF viewer for React applications.
 
 ### File Handling
 
