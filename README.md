@@ -44,7 +44,7 @@ Thank you for spreading the word!
 - [Authentication](#authentication)
 - [Routing](#routing)
 - [Drag & Drop](#drag--drop)
-- [UI Components](#ui-components)
+- [UI Frameworks & Libraries](#ui-frameworks--libraries)
 - [Tables](#tables)
 - [Forms](#forms)
 - [Hooks](#hooks)
@@ -132,7 +132,7 @@ Thank you for spreading the word!
 - **[FormKit’s Drag and Drop](https://drag-and-drop.formkit.com/)**:A small library for adding data-first drag and drop sorting and transferring for lists in your app. It’s simple, flexible, framework agnostic, and clocks in at only ~4Kb gzipped.
 - **[react-movable](https://react-movable.pages.dev/)**: Drag and drop for your React lists and tables.
 
-### UI Components
+### UI Frameworks & Libraries
 
 - **[Shadcn UI](https://ui.shadcn.com/)**: A modern UI framework for building responsive and accessible web applications.
 - **[Eldora UI](https://www.eldoraui.site/)**: An open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
@@ -159,6 +159,7 @@ Thank you for spreading the word!
 - **[DaysiUI](https://daisyui.com/)**:The most popular component library for Tailwind CSS.
 - **[Headless UI](https://headlessui.dev/)**: A set of completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - **[React Email](https://react.email/)**: An open source component library optimized for fast development, easy maintenance, and accessibility.
+- **[Polaris](https://polaris.shopify.com/)**: Shopify’s design system to help us work together to build a great experience for all of our merchants.
 
 ### Tables
 
