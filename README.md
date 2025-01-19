@@ -44,7 +44,7 @@ Thank you for spreading the word!
 - [Authentication](#authentication)
 - [Routing](#routing)
 - [Drag & Drop](#drag--drop)
-- [UI Components](#ui-components)
+- [UI Frameworks & Libraries](#ui-frameworks--libraries)
 - [Tables](#tables)
 - [Forms](#forms)
 - [Hooks](#hooks)
@@ -57,8 +57,8 @@ Thank you for spreading the word!
 - [Icons](#icons)
 - [Animations](#animations)
 - [Maps](#maps)
+- [File Handling](#file-handling)
 - [PDFs](#pdfs)
-- [File Uploads](#file-uploads)
 - [Real-time Communication](#real-time-communication)
 - [Audio & Video](#audio--video)
 - [Search Engine Optimization](#search-engine-optimization)
@@ -104,6 +104,7 @@ Thank you for spreading the word!
 - **[Blitz.js](https://blitzjs.com/)**: A framework built on top of Next.js, providing a full-stack experience with a focus on developer productivity.
 - **[RedwoodJS](https://redwoodjs.com/)**: An opinionated, full-stack, serverless web application framework built on React, GraphQL, and Prisma.
 - **[Refine](https://refine.dev/)**: A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
+- **[Tuono](https://tuono.dev/)**: A full-stack web framework for building React applications using Rust as the backend with a strong focus on usability and performance.
 
 ### Authentication
 
@@ -129,8 +130,9 @@ Thank you for spreading the word!
 - **[React Dragula](https://github.com/bevacqua/react-dragula)**: A drag-and-drop library for React based on Dragula.
 - **[React Complex Tree](https://rct.lukasbach.com/)**: Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop.
 - **[FormKit’s Drag and Drop](https://drag-and-drop.formkit.com/)**:A small library for adding data-first drag and drop sorting and transferring for lists in your app. It’s simple, flexible, framework agnostic, and clocks in at only ~4Kb gzipped.
+- **[react-movable](https://react-movable.pages.dev/)**: Drag and drop for your React lists and tables.
 
-### UI Components
+### UI Frameworks & Libraries
 
 - **[Shadcn UI](https://ui.shadcn.com/)**: A modern UI framework for building responsive and accessible web applications.
 - **[Eldora UI](https://www.eldoraui.site/)**: An open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
@@ -157,6 +159,8 @@ Thank you for spreading the word!
 - **[DaysiUI](https://daisyui.com/)**:The most popular component library for Tailwind CSS.
 - **[Headless UI](https://headlessui.dev/)**: A set of completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - **[React Email](https://react.email/)**: An open source component library optimized for fast development, easy maintenance, and accessibility.
+- **[Polaris](https://polaris.shopify.com/)**: Shopify’s design system to help us work together to build a great experience for all of our merchants.
+- **[Apsara](https://apsara-raystack.vercel.app/)**: An elegant and beautiful re-usable React UI components build using Radix UI and Stitches CSS-in-JS.
 
 ### Tables
 
@@ -165,7 +169,7 @@ Thank you for spreading the word!
 - **[AG Grid](https://www.ag-grid.com/react-data-grid/)**: A feature-rich datagrid designed for the major JavaScript frameworks.
 - **[React Data Grid](https://adazzle.github.io/react-data-grid/)**: Excel-like grid component built with React.
 - **[Griddle](https://griddlegriddle.github.io/Griddle/)**: A simple grid component for use with React.
-- **[React Virtualized](https://github.com/bvaughn/react-virtualized)**: A set of React components for efficiently rendering large lists and tabular data.
+- **[Tabulator](https://tabulator.info/)**: Interactive Tables and Data Grids.
 
 ### Forms
 
@@ -177,9 +181,9 @@ Thank you for spreading the word!
 
 ### Hooks
 
+- **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
 - **[usehooks-ts](https://usehooks-ts.com/)**: React hook library, ready to use, written in Typescript.
 - **[Novajs](https://novajs.dev/)**: A collection of dependency-free React hooks.
-- **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
 - **[React Use](https://github.com/streamich/react-use)**: A library of essential React hooks.
 - **[ahooks](https://ahooks.js.org/)**: A set of high-quality and reliable React hooks.
 
@@ -207,6 +211,7 @@ Thank you for spreading the word!
 - **[Apollo Client](https://www.apollographql.com/docs/react/)**: A fully-featured, production ready caching GraphQL client.
 - **[SWR](https://swr.vercel.app/)**: React Hooks library for remote data fetching.
 - **[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)**: A modern interface for making HTTP requests in the browser.
+- **[Relay](https://relay.dev/)**: A JavaScript framework for building data-driven React applications.
 
 ### Styling
 
@@ -235,6 +240,7 @@ Thank you for spreading the word!
 
 - **[Tanstack Virtual](https://tanstack.com/virtual/latest)**: A powerful virtual list and grid library for React applications.
 - **[Virtua](https://github.com/inokawa/virtua)**: A virtual list and grid library for React.
+- **[React Virtualized](https://github.com/bvaughn/react-virtualized)**: A set of React components for efficiently rendering large lists and tabular data.
 
 ### Icons
 
@@ -246,6 +252,7 @@ Thank you for spreading the word!
 - **[Ionicons](https://ionicons.com/)**: Premium icons for use in web, iOS, Android, and desktop apps.
 - **[Material Icons](https://material.io/resources/icons/)**: Material design icons by Google.
 - **[Bootstrap Icons](https://icons.getbootstrap.com/)**: Official open-source SVG icon library for Bootstrap.
+- **[Svgl](https://svgl.app/)**: A beautiful library with SVG logos.
 
 ### Animations
 
@@ -253,6 +260,7 @@ Thank you for spreading the word!
 - **[React Spring](https://www.react-spring.dev/)**: A spring-physics-based animation library for React.
 - **[Reactbits](https://reactbits.dev/)**: An open source React.js snippet library for animated components.
 - **[simpleParallax.js](https://simpleparallax.com/)**: simpleParallax.js is a lightweight and easy-to-use React and JS library that adds parallax animations to any image.
+- **[Blendy](https://blendy.tahazsh.com/)**: A framework-agnostic tool that smoothly transitions one element into another with just a few lines of code.
 
 ### Maps
 
@@ -266,10 +274,11 @@ Thank you for spreading the word!
 - **[React PDF](https://react-pdf.org/)**: A React renderer for creating PDF files.
 - **[React PDF Viewer](https://react-pdf-viewer.dev/)**: A PDF viewer for React applications.
 
-### File Uploads
+### File Handling
 
 - **[React Dropzone](https://react-dropzone.js.org/)**: Simple HTML5 drag-and-drop zone with React.
 - **[Uppy](https://uppy.io/)**: Sleek, modular file uploader for React.
+- **[react-uploady](https://react-uploady.org/)**: Modern file-upload components & hooks for React.
 
 ### Real-time Communication
 
@@ -336,10 +345,10 @@ Thank you for spreading the word!
 
 ### Performance Optimization
 
-- **[React Lazy Load](https://github.com/loktar00/react-lazy-load)**: A library that helps you defer loading content in your React application until it becomes visible in the viewport.
-- **[React Window](https://react-window.vercel.app/)**: A library for rendering large lists and tabular data efficiently.
 - **[React Scan](https://react-scan.million.dev/)**: Scan for React performance issues and eliminate slow renders in your app.
 - **[Million](https://million.dev/)**: A React performance tool that helps you identify and fix performance issues in your React applications.
+- **[React Lazy Load](https://github.com/loktar00/react-lazy-load)**: A library that helps you defer loading content in your React application until it becomes visible in the viewport.
+- **[React Window](https://react-window.vercel.app/)**: A library for rendering large lists and tabular data efficiently.
 
 ### Error Handling
 
