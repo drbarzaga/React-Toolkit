@@ -160,6 +160,7 @@ Thank you for spreading the word!
 - **[Headless UI](https://headlessui.dev/)**: A set of completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - **[React Email](https://react.email/)**: An open source component library optimized for fast development, easy maintenance, and accessibility.
 - **[Polaris](https://polaris.shopify.com/)**: Shopify’s design system to help us work together to build a great experience for all of our merchants.
+- **[Apsara](https://apsara-raystack.vercel.app/)**: An elegant and beautiful re-usable React UI components build using Radix UI and Stitches CSS-in-JS.
 
 ### Tables
 
