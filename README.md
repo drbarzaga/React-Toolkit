@@ -163,6 +163,7 @@ Thank you for spreading the word!
 - **[Apsara](https://apsara-raystack.vercel.app/)**: An elegant and beautiful re-usable React UI components build using Radix UI and Stitches CSS-in-JS.
 - **[dotUI](https://dotui.org/)**: Minimalist component library focused on simplicity and performance.
 - **[TailusUI](https://ui.tailus.io/)**: Modern UI library built with Tailwind CSS focusing on design consistency.
+- **[Aceternity UI](https://ui.aceternity.com/)**: Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
 
 ### Tables
 
