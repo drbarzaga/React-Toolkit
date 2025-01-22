@@ -164,6 +164,7 @@ Thank you for spreading the word!
 - **[dotUI](https://dotui.org/)**: Minimalist component library focused on simplicity and performance.
 - **[TailusUI](https://ui.tailus.io/)**: Modern UI library built with Tailwind CSS focusing on design consistency.
 - **[Aceternity UI](https://ui.aceternity.com/)**: Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
+- **[Justd](https://getjustd.com/)**: Accessible React UI components similar to Shadcn/ui but using React Area instead of Radix.
 
 ### Tables
 
