@@ -199,6 +199,7 @@ Thank you for spreading the word!
 - **[React Hot Toast](https://react-hot-toast.com/)**: A super easy toast library for React.
 - **[React Notification System](https://igorprado.github.io/react-notification-system/)**: A complete and totally customizable component for notifications in React.
 - **[React Toast Notifications](https://jossmac.github.io/react-toast-notifications/)**: A toast notification system for react.
+- **[pheralb/toast](https://toast.pheralb.dev/)**: An accessible and beautiful toast library for React.
 
 ### State Management
 
