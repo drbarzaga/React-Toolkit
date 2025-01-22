@@ -161,6 +161,9 @@ Thank you for spreading the word!
 - **[React Email](https://react.email/)**: An open source component library optimized for fast development, easy maintenance, and accessibility.
 - **[Polaris](https://polaris.shopify.com/)**: Shopify’s design system to help us work together to build a great experience for all of our merchants.
 - **[Apsara](https://apsara-raystack.vercel.app/)**: An elegant and beautiful re-usable React UI components build using Radix UI and Stitches CSS-in-JS.
+- **[dotUI](https://dotui.org/)**: Minimalist component library focused on simplicity and performance.
+- **[TailusUI](https://ui.tailus.io/)**: Modern UI library built with Tailwind CSS focusing on design consistency.
+- **[Aceternity UI](https://ui.aceternity.com/)**: Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
 
 ### Tables
 
@@ -196,6 +199,7 @@ Thank you for spreading the word!
 - **[React Hot Toast](https://react-hot-toast.com/)**: A super easy toast library for React.
 - **[React Notification System](https://igorprado.github.io/react-notification-system/)**: A complete and totally customizable component for notifications in React.
 - **[React Toast Notifications](https://jossmac.github.io/react-toast-notifications/)**: A toast notification system for react.
+- **[pheralb/toast](https://toast.pheralb.dev/)**: An accessible and beautiful toast library for React.
 
 ### State Management
 
