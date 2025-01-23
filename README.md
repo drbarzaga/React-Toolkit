@@ -377,6 +377,8 @@ Thank you for spreading the word!
 ### Miscellaneous
 
 - **[ReactSpinners](https://www.davidhu.io/react-spinners/)**: A collection of loading spinner components for React.
+- **[ReactTooltip](https://react-tooltip.com/)**: Awesome React Tooltip component.
+- **[React Loader Spinner](https://mhnpd.github.io/react-loader-spinner/)**: Collection sets of a spinners for async operations for ReactJS.
 
 ### Visual Studio Code Extensions
 
