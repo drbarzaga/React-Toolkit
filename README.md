@@ -73,6 +73,7 @@ Thank you for spreading the word!
 - [Error Handling](#error-handling)
 - [Code Splitting](#code-splitting)
 - [Hosting](#hosting)
+- [Miscellaneous](#miscellaneous)
 - [Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Live Coding Tools](#live-coding-tools)
 - [Popular Platforms](#popular-platforms)
@@ -373,11 +374,16 @@ Thank you for spreading the word!
 - **[Firebase](https://firebase.google.com/)**: A comprehensive app development platform that provides hosting for static and dynamic content, as well as backend services.
 - **[AWS Amplify](https://aws.amazon.com/es/amplify/)**: A set of tools and services that enables mobile and front-end web developers to build secure, scalable full-stack applications.
 
+### Miscellaneous
+
+- **[ReactSpinners](https://www.davidhu.io/react-spinners/)**: A collection of loading spinner components for React.
+
 ### Visual Studio Code Extensions
 
 > [!TIP]
 > Explore these Visual Studio Code extensions to enhance your development workflow. These tools provide powerful features for code editing, debugging, and collaboration, making it easier to build and maintain your React projects efficiently.
 
+- **[ReactToolkit](https://marketplace.visualstudio.com/items?itemName=drbarzaga.react-toolkit)**: A collection of essential tools and resources for React developers.
 - **[ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)**: Provides a collection of useful snippets for React, Redux, and React Native.
 - **[Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)**: Dead simple React snippets you will actually use.
 - **[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)**: An opinionated code formatter that supports many languages and integrates with most editors.
