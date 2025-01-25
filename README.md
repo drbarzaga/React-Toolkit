@@ -250,6 +250,7 @@ Thank you for spreading the word!
 - **[Tanstack Virtual](https://tanstack.com/virtual/latest)**: A powerful virtual list and grid library for React applications.
 - **[Virtua](https://github.com/inokawa/virtua)**: A virtual list and grid library for React.
 - **[React Virtualized](https://github.com/bvaughn/react-virtualized)**: A set of React components for efficiently rendering large lists and tabular data.
+- **[Semiotic](https://semiotic.nteract.io/)**: A data visualization framework for React.
 
 ### Icons
 
