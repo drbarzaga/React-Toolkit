@@ -383,6 +383,8 @@ Thank you for spreading the word!
 - **[ReactTooltip](https://react-tooltip.com/)**: Awesome React Tooltip component.
 - **[React Loader Spinner](https://mhnpd.github.io/react-loader-spinner/)**: Collection sets of a spinners for async operations for ReactJS.
 - **[React Content Loader](https://skeletonreact.com/)**: SVG-Powered component to easily create skeleton loadings.
+- **[Kbar](https://kbar.vercel.app/)**: Fast, portable, and extensible command+k interface for React.
+- **[Cmdk](https://cmdk.paco.me/)**: Fast, composable, unstyled command menu for React.
 
 ### Visual Studio Code Extensions
 
