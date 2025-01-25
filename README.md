@@ -243,6 +243,7 @@ Thank you for spreading the word!
 - **[Mermaid Js](https://mermaid.js.org/)**: JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
 - **[React Flow](https://reactflow.dev/)**: A customizable React component for building node-based editors and interactive diagrams.
 - **[React Google Charts](https://www.react-google-charts.com/)**: A thin, typed, React wrapper over Google Charts Visualization and Charts API.
+- **[React Timeseries Charts](https://software.es.net/react-timeseries-charts/)**: Declarative and modular timeseries charting components for React.
 
 ### Virtualization
 
