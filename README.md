@@ -385,6 +385,7 @@ Thank you for spreading the word!
 - **[React Content Loader](https://skeletonreact.com/)**: SVG-Powered component to easily create skeleton loadings.
 - **[Kbar](https://kbar.vercel.app/)**: Fast, portable, and extensible command+k interface for React.
 - **[Cmdk](https://cmdk.paco.me/)**: Fast, composable, unstyled command menu for React.
+- **[React Compare Image](https://github.com/tam315/react-compare-image)**: React component to compare two images with a slider
 
 ### Visual Studio Code Extensions
 
