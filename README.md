@@ -242,6 +242,7 @@ Thank you for spreading the word!
 - **[Unovis](https://unovis.dev/)**: A modular data visualization framework for React, Angular, Svelte, Vue, Solid.
 - **[Mermaid Js](https://mermaid.js.org/)**: JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
 - **[React Flow](https://reactflow.dev/)**: A customizable React component for building node-based editors and interactive diagrams.
+- **[React Google Charts](https://www.react-google-charts.com/)**: A thin, typed, React wrapper over Google Charts Visualization and Charts API.
 
 ### Virtualization
 
