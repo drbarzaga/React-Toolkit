@@ -387,7 +387,8 @@ Thank you for spreading the word!
 - **[Cmdk](https://cmdk.paco.me/)**: Fast, composable, unstyled command menu for React.
 - **[React Compare Image](https://github.com/tam315/react-compare-image)**: React component to compare two images with a slider
 - **[React Intense](https://bryce.io/react-intense/)**: A React component for viewing large images up close.
-- **[React Youtube](https://tjallingt.github.io/react-youtube/)**: React.js powered YouTube player component
+- **[React Youtube](https://tjallingt.github.io/react-youtube/)**: React.js powered YouTube player component.
+- **[Video React](https://video-react.js.org/)**: The web video player built from the ground up for an HTML5 world using React library.
 
 ### Visual Studio Code Extensions
 
