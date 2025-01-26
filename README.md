@@ -392,6 +392,7 @@ Thank you for spreading the word!
 - **[Advanced Cropper](https://advanced-cropper.github.io/react-advanced-cropper/)**: The react cropper library that embraces power of the advanced cropper core to give the possibility to create croppers that exactly suited for your website design.
 - **[React Easy Crop](https://valentinh.github.io/react-easy-crop/)**: A React component to crop images with easy interactions.
 - **[React Image Crop](https://github.com/DominicTobias/react-image-crop)**: A responsive image cropping tool for React.
+- **[Interweave](https://interweave.dev/)**: React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
 
 ### Visual Studio Code Extensions
 
