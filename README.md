@@ -389,6 +389,7 @@ Thank you for spreading the word!
 - **[React Intense](https://bryce.io/react-intense/)**: A React component for viewing large images up close.
 - **[React Youtube](https://tjallingt.github.io/react-youtube/)**: React.js powered YouTube player component.
 - **[Video React](https://video-react.js.org/)**: The web video player built from the ground up for an HTML5 world using React library.
+- **[React Easy Crop](https://valentinh.github.io/react-easy-crop/)**: A React component to crop images with easy interactions.
 
 ### Visual Studio Code Extensions
 
