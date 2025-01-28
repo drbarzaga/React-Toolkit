@@ -393,6 +393,7 @@ Thank you for spreading the word!
 - **[React Easy Crop](https://valentinh.github.io/react-easy-crop/)**: A React component to crop images with easy interactions.
 - **[React Image Crop](https://github.com/DominicTobias/react-image-crop)**: A responsive image cropping tool for React.
 - **[Interweave](https://interweave.dev/)**: React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
+- **[React Blur](https://javier.xyz/react-blur)**: React component for creating blurred backgrounds using canvas.
 
 ### Visual Studio Code Extensions
 
