@@ -291,6 +291,7 @@ Thank you for spreading the word!
 - **[React Dropzone](https://react-dropzone.js.org/)**: Simple HTML5 drag-and-drop zone with React.
 - **[Uppy](https://uppy.io/)**: Sleek, modular file uploader for React.
 - **[react-uploady](https://react-uploady.org/)**: Modern file-upload components & hooks for React.
+- **[React Spreadsheet](https://iddan.github.io/react-spreadsheet/)**: Simple, customizable yet performant spreadsheet for React.
 
 ### Real-time Communication
 
