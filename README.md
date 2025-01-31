@@ -211,6 +211,7 @@ Thank you for spreading the word!
 - **[Redux Toolkit](https://redux-toolkit.js.org/)**: The official, recommended way to write Redux logic.
 - **[Recoil](https://recoiljs.org/)**: A state management library for React that makes it easy to share state across components.
 - **[Stan Js](https://codemask-labs.github.io/stan-js/)**: Fast and elegant state management solution with minimal configuration for your React, React Native and even vanilla-js apps
+- **[Jotai](https://jotai.org/)**: Primitive and flexible state management for React.
 
 ### Data Fetching
 
