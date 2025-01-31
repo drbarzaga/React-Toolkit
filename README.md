@@ -210,6 +210,7 @@ Thank you for spreading the word!
 - **[Tanstack Store](https://tanstack.com/store/latest)**: A powerful state management library for React applications.
 - **[Redux Toolkit](https://redux-toolkit.js.org/)**: The official, recommended way to write Redux logic.
 - **[Recoil](https://recoiljs.org/)**: A state management library for React that makes it easy to share state across components.
+- **[Stan Js](https://codemask-labs.github.io/stan-js/)**: Fast and elegant state management solution with minimal configuration for your React, React Native and even vanilla-js apps
 
 ### Data Fetching
 
