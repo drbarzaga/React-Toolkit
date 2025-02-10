@@ -167,6 +167,7 @@ Thank you for spreading the word!
 - **[Aceternity UI](https://ui.aceternity.com/)**: Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
 - **[Justd](https://getjustd.com/)**: Accessible React UI components similar to Shadcn/ui but using React Area instead of Radix.
 - **[rsuitejs](https://rsuitejs.com/)**: A suite of React components, sensible UI design, and a friendly development experience.
+- **[Park UI](https://park-ui.com/)**: Beautiful designed components build with Ark UI and Panda CSS.
 
 ### Tables
 
