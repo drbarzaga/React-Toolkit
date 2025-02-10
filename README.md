@@ -300,6 +300,7 @@ Thank you for spreading the word!
 
 ### Audio & Video
 
+- **[Remotion](https://www.remotion.dev/)**: A framework for creating videos programmatically using React.
 - **[React Player](https://github.com/cookpete/react-player)**: A React component for playing a variety of URLs, including YouTube, SoundCloud, and more.
 - **[React Webcam](https://github.com/mozmorris/react-webcam)**: A React component for accessing the user's webcam.
 - **[React Sound](https://github.com/leoasis/react-sound)**: A sound component to play audio in your React applications.
