@@ -169,6 +169,7 @@ Thank you for spreading the word!
 - **[rsuitejs](https://rsuitejs.com/)**: A suite of React components, sensible UI design, and a friendly development experience.
 - **[Park UI](https://park-ui.com/)**: Beautiful designed components build with Ark UI and Panda CSS.
 - **[Theme UI](https://theme-ui.com/)**: Build consistent, themeable React apps based on constraint-based design principles.
+- **[Gestalt](https://gestalt.pinterest.systems)**: A set of React UI components that supports Pinterest’s design language.
 
 ### Tables
 
