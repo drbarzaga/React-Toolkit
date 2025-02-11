@@ -170,6 +170,7 @@ Thank you for spreading the word!
 - **[Park UI](https://park-ui.com/)**: Beautiful designed components build with Ark UI and Panda CSS.
 - **[Theme UI](https://theme-ui.com/)**: Build consistent, themeable React apps based on constraint-based design principles.
 - **[Gestalt](https://gestalt.pinterest.systems)**: A set of React UI components that supports Pinterest’s design language.
+- **[Elastic UI](https://eui.elastic.co)**: The Elastic UI framework (EUI) is a design library in use at Elastic to build internal products that need to share our aesthetics.
 
 ### Tables
 
