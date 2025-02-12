@@ -173,6 +173,8 @@ Thank you for spreading the word!
 - **[Elastic UI](https://eui.elastic.co)**: The Elastic UI framework (EUI) is a design library in use at Elastic to build internal products that need to share our aesthetics.
 - **[Tremor](https://tremor.so)**: React components to build charts and dashboards.
 - **[Sailboat UI](https://sailboatui.com/)**: A modern UI component library for Tailwind CSS.
+- **[Ring UI](https://jetbrains.github.io/ring-ui/master/index.html)**: A collection of JetBrains Web UI components.
+- **[Orbit](https://orbit.kiwi/)**: React components of open-source Orbit design system by Kiwi.com.
 
 ### Tables
 
