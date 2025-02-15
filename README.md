@@ -73,6 +73,7 @@ Thank you for spreading the word!
 - [Error Handling](#error-handling)
 - [Code Splitting](#code-splitting)
 - [Hosting](#hosting)
+- [Utilities](#utilities)
 - [Miscellaneous](#miscellaneous)
 - [Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Live Coding Tools](#live-coding-tools)
@@ -391,6 +392,10 @@ Thank you for spreading the word!
 - **[Netlify](https://www.netlify.com/)**: A platform for automating modern web projects, with continuous deployment, serverless functions, and more.
 - **[Firebase](https://firebase.google.com/)**: A comprehensive app development platform that provides hosting for static and dynamic content, as well as backend services.
 - **[AWS Amplify](https://aws.amazon.com/es/amplify/)**: A set of tools and services that enables mobile and front-end web developers to build secure, scalable full-stack applications.
+
+### Utilities
+
+- **[Axios](https://axios-http.com/)**: A promise-based HTTP client for the browser and Node.js.
 
 ### Miscellaneous
 
