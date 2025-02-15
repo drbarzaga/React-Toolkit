@@ -396,6 +396,7 @@ Thank you for spreading the word!
 ### Utilities
 
 - **[Axios](https://axios-http.com/)**: A promise-based HTTP client for the browser and Node.js.
+- **[Lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance & extras.
 
 ### Miscellaneous
 
