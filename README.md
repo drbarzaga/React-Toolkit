@@ -176,6 +176,7 @@ Thank you for spreading the word!
 - **[Sailboat UI](https://sailboatui.com/)**: A modern UI component library for Tailwind CSS.
 - **[Ring UI](https://jetbrains.github.io/ring-ui/master/index.html)**: A collection of JetBrains Web UI components.
 - **[Orbit](https://orbit.kiwi/)**: React components of open-source Orbit design system by Kiwi.com.
+- **[Preline](https://www.preline.co/)**: An open-source Tailwind CSS components library for any needs.
 
 ### Tables
 
