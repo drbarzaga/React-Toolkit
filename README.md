@@ -177,6 +177,7 @@ Thank you for spreading the word!
 - **[Ring UI](https://jetbrains.github.io/ring-ui/master/index.html)**: A collection of JetBrains Web UI components.
 - **[Orbit](https://orbit.kiwi/)**: React components of open-source Orbit design system by Kiwi.com.
 - **[Preline](https://www.preline.co/)**: An open-source Tailwind CSS components library for any needs.
+- **[Magic UI](https://www.maigc.design/)**: 150+ free and open-source animated components and effects built with React, Typescript, Tailwind CSS, and Motion.
 
 ### Tables
 
