@@ -421,6 +421,7 @@ Thank you for spreading the word!
 - **[Interweave](https://interweave.dev/)**: React library to safely render HTML, filter attributes, autowrap text with matchers, render emoji characters, and much more.
 - **[React Blur](https://javier.xyz/react-blur)**: React component for creating blurred backgrounds using canvas.
 - **[Number Flow](https://number-flow.barvian.me/)**: An animated number component. Dependency-free. Accessible and customizable.
+- **[ui-snippets](https://ui.ibelick.com/)**: A collection of dark mode components and effects crafted with React and Tailwind CSS.
 
 ### Visual Studio Code Extensions
 
