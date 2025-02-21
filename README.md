@@ -179,6 +179,7 @@ Thank you for spreading the word!
 - **[Preline](https://www.preline.co/)**: An open-source Tailwind CSS components library for any needs.
 - **[Magic UI](https://www.maigc.design/)**: 150+ free and open-source animated components and effects built with React, Typescript, Tailwind CSS, and Motion.
 - **[CuiCui](https://cuicui.day)**:A collection of components, tools, and hooks that are designed to be simple, customizable and educational.
+- **[Kokonut UI](https://kokonutui.com/)**: Open Source UI components built with Tailwind CSS for React and Next.js.
 
 ### Tables
 
