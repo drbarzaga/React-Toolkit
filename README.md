@@ -181,6 +181,7 @@ Thank you for spreading the word!
 - **[CuiCui](https://cuicui.day)**:A collection of components, tools, and hooks that are designed to be simple, customizable and educational.
 - **[Kokonut UI](https://kokonutui.com/)**: Open Source UI components built with Tailwind CSS for React and Next.js.
 - **[EverUI](https://www.ever-ui.com/)**: Unstyled highly composable components that you can copy/paste in your own codebase.
+- **[Indie UI](https://ui.indie-starter.dev/)**: Rich Styled UI Components built with Reactjs, shadcn and Framer Motion for animation.
 
 ### Tables
 
