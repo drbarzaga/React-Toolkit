@@ -285,7 +285,7 @@ Thank you for spreading the word!
 
 ### Animations
 
-- **[Framer Motion](https://www.framer.com/motion/)**: A production-ready motion library for React.
+- **[Motion](https://motion.dev/)**: A modern animation library for JavaScript and React.
 - **[React Spring](https://www.react-spring.dev/)**: A spring-physics-based animation library for React.
 - **[Reactbits](https://reactbits.dev/)**: An open source React.js snippet library for animated components.
 - **[simpleParallax.js](https://simpleparallax.com/)**: simpleParallax.js is a lightweight and easy-to-use React and JS library that adds parallax animations to any image.
