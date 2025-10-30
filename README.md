@@ -114,6 +114,7 @@ Thank you for spreading the word!
 - **[Auth0](https://auth0.com/)**: A platform for securing access to your applications, devices, and users.
 - **[Okta](https://developer.okta.com/docs/guides/sign-into-spa/react/before-you-begin/)**: A complete identity management solution for your web and mobile apps.
 - **[Clerk](https://clerk.dev/)**: Authentication and user management for modern applications.
+- **[Better Auth](https://better-auth.com/)**: The most comprehensive authentication framework for TypeScript.
 
 ### Routing
 
