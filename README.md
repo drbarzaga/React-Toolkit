@@ -1,97 +1,107 @@
-## 🧰 React Toolkit
-
-### ℹ️ About
-
-<div align="left" style="font-family: Roboto, sans-serif; font-size: 16px; line-height: 1.6;">
-
-A curated list of essential libraries and tools for frontend developers, with a focus on React. From UI components and styling frameworks to state management, form handling, animations, testing, and utilities, this collection serves as a comprehensive toolkit to streamline and enhance your web development projects. Ideal for developers looking to build robust, scalable, and high-performance applications 🚀.
-
-</div>
-
-<div align="center">
-  
-![GitHub stars](https://img.shields.io/github/stars/drbarzaga/react-toolkit?style=social)
-![GitHub forks](https://img.shields.io/github/forks/drbarzaga/react-toolkit?style=social)
-![GitHub issues](https://img.shields.io/github/issues/drbarzaga/react-toolkit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/drbarzaga/react-toolkit)
-![GitHub license](https://img.shields.io/github/license/drbarzaga/react-toolkit)
-
-</div>
-
-### ⭐ Star Us
-
-If you find this project helpful or interesting, please consider giving it a star on GitHub. Your support motivates us to keep improving and adding new features!
-
-### 📢 Share
-
-If you enjoyed this project, please share it with your friends and colleagues on social media:
-
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-Share-blue?logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20React%20toolkit%20collection!%20https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freac-toolkit)
-[![Facebook](https://img.shields.io/badge/Facebook-Share-blue?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Share-blue?logo=linkedin)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit&title=React%20Toolkit%20Collection&summary=Check%20out%20this%20awesome%20React%20toolkit%20collection!&source=LinkedIn)
-[![Reddit](https://img.shields.io/badge/Reddit-Share-orange?logo=reddit)](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit&title=React%20Toolkit%20Collection)
+# React Toolkit
+
+Essential libraries and tools for building modern React applications.
+
+[![Stars](https://img.shields.io/github/stars/drbarzaga/react-toolkit?style=flat-square&color=yellow)](https://github.com/drbarzaga/react-toolkit/stargazers)
+[![Forks](https://img.shields.io/github/forks/drbarzaga/react-toolkit?style=flat-square)](https://github.com/drbarzaga/react-toolkit/network/members)
+[![Issues](https://img.shields.io/github/issues/drbarzaga/react-toolkit?style=flat-square)](https://github.com/drbarzaga/react-toolkit/issues)
+[![License](https://img.shields.io/github/license/drbarzaga/react-toolkit?style=flat-square)](LICENSE)
+
+[![Share on X](https://img.shields.io/badge/Share%20on%20X-black?logo=x&style=flat-square)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20React%20toolkit%20collection!%20https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit)
+[![Share on LinkedIn](https://img.shields.io/badge/Share%20on%20LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit)
+[![Share on Reddit](https://img.shields.io/badge/Share%20on%20Reddit-FF4500?logo=reddit&style=flat-square)](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit&title=React%20Toolkit%20Collection)
 
 </div>
 
-Thank you for spreading the word!
+---
 
-### Table of Contents
+## Table of Contents
 
+<table>
+<tr>
+<td valign="top">
+
+**Foundation**
 - [Official Resources](#official-resources)
 - [Frameworks](#frameworks)
 - [Authentication](#authentication)
 - [Routing](#routing)
-- [Drag & Drop](#drag--drop)
+
+**UI & Styling**
 - [UI Frameworks & Libraries](#ui-frameworks--libraries)
-- [Tables](#tables)
-- [Forms](#forms)
-- [Hooks](#hooks)
-- [Notifications](#notifications)
-- [State Management](#state-management)
-- [Data Fetching](#data-fetching)
 - [Styling](#styling)
-- [Charts](#charts)
-- [Virtualization](#virtualization)
 - [Icons](#icons)
 - [Animations](#animations)
+- [Miscellaneous](#miscellaneous)
+
+**Components**
+- [Tables](#tables)
+- [Forms](#forms)
+- [Notifications](#notifications)
+- [Drag & Drop](#drag--drop)
 - [Maps](#maps)
 - [File Handling](#file-handling)
 - [PDFs](#pdfs)
-- [Real-time Communication](#real-time-communication)
 - [Audio & Video](#audio--video)
-- [Search Engine Optimization](#search-engine-optimization)
+
+</td>
+<td valign="top">
+
+**Data & State**
+- [State Management](#state-management)
+- [Data Fetching](#data-fetching)
 - [Validations](#validations)
+- [Real-time Communication](#real-time-communication)
+
+**Tooling**
 - [Bundlers](#bundlers)
 - [Linting & Formatting](#linting--formatting)
-- [DevTools](#devtools)
 - [Testing](#testing)
-- [Documentation](#documentation)
-- [Internationalization](#internationalization)
+- [DevTools](#devtools)
 - [Performance Optimization](#performance-optimization)
 - [Error Handling](#error-handling)
 - [Code Splitting](#code-splitting)
 - [Hosting](#hosting)
+
+**Advanced**
+- [Hooks](#hooks)
+- [Charts](#charts)
+- [Virtualization](#virtualization)
+- [Internationalization](#internationalization)
+- [Search Engine Optimization](#search-engine-optimization)
 - [Utilities](#utilities)
-- [Miscellaneous](#miscellaneous)
-- [AI & LLM Integration](#ai--llm-integration)
+
+</td>
+<td valign="top">
+
+**Development**
 - [Component Development](#component-development)
+- [Documentation](#documentation)
 - [Monorepo Tools](#monorepo-tools)
+- [AI & LLM Integration](#ai--llm-integration)
+
+**Learning & Community**
 - [Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Live Coding Tools](#live-coding-tools)
 - [Popular Platforms](#popular-platforms)
 - [GitHub Repositories](#github-repositories)
 - [YouTube Channels](#youtube-channels)
 - [Forums](#forums)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Contributors](#contributors)
-- [Support](#support)
-- [Contact](#contact)
 
-### Official Resources
+**Project**
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+- [License](#license)
+
+</td>
+</tr>
+</table>
+
+## Official Resources
+
+*The starting point — directly from the React team.*
 
 - **[React Website](https://react.dev/)**
 - **[React Repository](https://github.com/facebook/react)**
@@ -101,7 +111,9 @@ Thank you for spreading the word!
 - **[React Quick Start Tutorial](https://react.dev/learn)**
 - **[Using React in VS Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)**
 
-### Frameworks
+## Frameworks
+
+*Full-stack and meta-frameworks built on top of React.*
 
 - **[Next.js](https://nextjs.org/)**: A React framework that enables server-side rendering and static site generation for building fast and SEO-friendly web applications.
 - **[Gatsby](https://www.gatsbyjs.com/)**: A React-based open-source framework for creating fast, secure, and powerful websites using modern web technologies.
@@ -111,7 +123,9 @@ Thank you for spreading the word!
 - **[Refine](https://refine.dev/)**: A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - **[Tuono](https://tuono.dev/)**: A full-stack web framework for building React applications using Rust as the backend with a strong focus on usability and performance.
 
-### Authentication
+## Authentication
+
+*Identity and access management solutions for React apps.*
 
 - **[Auth.js](https://authjs.dev/)**: Authentication for the Web. Free and open source.
 - **[Auth0](https://auth0.com/)**: A platform for securing access to your applications, devices, and users.
@@ -119,14 +133,18 @@ Thank you for spreading the word!
 - **[Clerk](https://clerk.dev/)**: Authentication and user management for modern applications.
 - **[Better Auth](https://better-auth.com/)**: The most comprehensive authentication framework for TypeScript.
 
-### Routing
+## Routing
+
+*Client-side navigation and URL management.*
 
 - **[Wouter](https://github.com/molefrog/wouter)**: A minimalist-friendly ~2.1KB routing for React and Preact.
 - **[Tanstack Router](https://tanstack.com/router/latest)**: A powerful routing library for React applications.
 - **[React Router](https://reactrouter.com/)**: The standard routing library for React applications.
 - **[Reach Router](https://reach.tech/router)**: A routing library with a focus on accessibility and simplicity.
 
-### Drag & Drop
+## Drag & Drop
+
+*Libraries for building intuitive drag-and-drop interactions.*
 
 - **[Swapy](https://swapy.tahazsh.com/)**: A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code.
 - **[DnDKit](https://dndkit.com/)**: A lightweight, performant, accessible and extensible drag & drop toolkit for React.
@@ -138,7 +156,9 @@ Thank you for spreading the word!
 - **[FormKit’s Drag and Drop](https://drag-and-drop.formkit.com/)**:A small library for adding data-first drag and drop sorting and transferring for lists in your app. It’s simple, flexible, framework agnostic, and clocks in at only ~4Kb gzipped.
 - **[react-movable](https://react-movable.pages.dev/)**: Drag and drop for your React lists and tables.
 
-### UI Frameworks & Libraries
+## UI Frameworks & Libraries
+
+*Component libraries and design systems to build polished interfaces fast.*
 
 - **[Shadcn UI](https://ui.shadcn.com/)**: A modern UI framework for building responsive and accessible web applications.
 - **[Eldora UI](https://www.eldoraui.site/)**: An open-source animated components built with React, Typescript, Tailwind CSS, and Framer Motion.
@@ -188,7 +208,9 @@ Thank you for spreading the word!
 - **[Indie UI](https://ui.indie-starter.dev/)**: Rich Styled UI Components built with Reactjs, shadcn and Framer Motion for animation.
 - **[Reui](https://reui.io/)**: Open-source collection of UI components and animated effects built with React, Typescript, Tailwind CSS, and Motion. Pairs beautifully with shadcn/ui.
 
-### Tables
+## Tables
+
+*Headless and full-featured solutions for data-heavy grids.*
 
 - **[Tanstack Table](https://tanstack.com/table/latest)**: A headless UI for building powerful tables and datagrids.
 - **[Material-UI Table](https://mui.com/components/tables/)**: Tables built with Material-UI, a popular React UI framework.
@@ -197,7 +219,9 @@ Thank you for spreading the word!
 - **[Griddle](https://griddlegriddle.github.io/Griddle/)**: A simple grid component for use with React.
 - **[Tabulator](https://tabulator.info/)**: Interactive Tables and Data Grids.
 
-### Forms
+## Forms
+
+*Form state, validation, and submission made simple.*
 
 - **[React Hook Form](https://react-hook-form.com/)**: Performant, flexible, and extensible forms with easy-to-use validation.
 - **[Tanstack Form](https://tanstack.com/form/latest)**: A powerful form library for React applications.
@@ -205,7 +229,9 @@ Thank you for spreading the word!
 - **[React Json Schema Form](https://rjsf-team.github.io/react-jsonschema-form/docs/)**: A React component for building Web forms from JSON Schema.
 - **[Formily](https://formilyjs.org/)**: Alibaba Group Unified Form Solution.
 
-### Hooks
+## Hooks
+
+*Curated collections of reusable custom hooks.*
 
 - **[useHooks](https://usehooks.com/)**: A collection of reusable React hooks.
 - **[usehooks-ts](https://usehooks-ts.com/)**: React hook library, ready to use, written in Typescript.
@@ -213,7 +239,9 @@ Thank you for spreading the word!
 - **[React Use](https://github.com/streamich/react-use)**: A library of essential React hooks.
 - **[ahooks](https://ahooks.js.org/)**: A set of high-quality and reliable React hooks.
 
-### Notifications
+## Notifications
+
+*Toast and alert systems to keep users informed.*
 
 - **[Sonner](https://sonner.emilkowal.ski/)**: An opinionated toast component for React.
 - **[React Toastify](https://fkhadra.github.io/react-toastify/introduction/)**: A popular library for adding customizable and easy-to-use toast notifications to your React applications.
@@ -224,7 +252,9 @@ Thank you for spreading the word!
 - **[React Toast Notifications](https://jossmac.github.io/react-toast-notifications/)**: A toast notification system for react.
 - **[pheralb/toast](https://toast.pheralb.dev/)**: An accessible and beautiful toast library for React.
 
-### State Management
+## State Management
+
+*From simple stores to complex reactive state machines.*
 
 - **[Zustand](https://zustand-demo.pmnd.rs/)**: A small, fast, and scalable bearbones state-management solution.
 - **[Tanstack Store](https://tanstack.com/store/latest)**: A powerful state management library for React applications.
@@ -236,7 +266,9 @@ Thank you for spreading the word!
 - **[XState](https://xstate.js.org/)**: State machines and statecharts for modern JavaScript and React applications.
 - **[Valtio](https://valtio.dev/)**: Proxy-based state management for React that makes state mutations feel natural.
 
-### Data Fetching
+## Data Fetching
+
+*HTTP clients, GraphQL, and server-state libraries.*
 
 - **[Axios](https://axios-http.com/)**: A promise-based HTTP client for the browser and Node.js.
 - **[Tanstack Query](https://tanstack.com/query/latest)**: Powerful asynchronous state management, server-state utilities, and data fetching for TS/JS, React, Solid, Vue, Svelte, and more.
@@ -247,7 +279,9 @@ Thank you for spreading the word!
 - **[tRPC](https://trpc.io/)**: End-to-end typesafe APIs for React — no schemas, no code generation, full TypeScript inference.
 - **[URQL](https://commerce.nearform.com/open-source/urql/)**: A highly customizable and versatile GraphQL client for React.
 
-### Styling
+## Styling
+
+*CSS-in-JS, utility-first, and zero-runtime styling solutions.*
 
 - **[TailwindCss](https://tailwindcss.com/)**: A utility-first CSS framework for rapidly building custom user interfaces.
 - **[Styled Components](https://styled-components.com/)**: Utilizes tagged template literals to style your components.
@@ -259,7 +293,9 @@ Thank you for spreading the word!
 - **[Panda CSS](https://panda-css.com/)**: CSS-in-JS with build-time generated styles, RSC compatible, multi-variant support, and great developer experience.
 - **[UnoCSS](https://unocss.dev/)**: Instant on-demand atomic CSS engine — flexible, powerful, and blazing fast.
 
-### Charts
+## Charts
+
+*Data visualization libraries for building interactive charts and graphs.*
 
 - **[Recharts](https://recharts.org/en-US)**: A composable charting library built on React components.
 - **[Victory](https://formidable.com/open-source/victory/)**: A collection of composable React components for building interactive data visualizations.
@@ -276,14 +312,18 @@ Thank you for spreading the word!
 - **[React Google Charts](https://www.react-google-charts.com/)**: A thin, typed, React wrapper over Google Charts Visualization and Charts API.
 - **[React Timeseries Charts](https://software.es.net/react-timeseries-charts/)**: Declarative and modular timeseries charting components for React.
 
-### Virtualization
+## Virtualization
+
+*Render massive lists and grids without sacrificing performance.*
 
 - **[Tanstack Virtual](https://tanstack.com/virtual/latest)**: A powerful virtual list and grid library for React applications.
 - **[Virtua](https://github.com/inokawa/virtua)**: A virtual list and grid library for React.
 - **[React Virtualized](https://github.com/bvaughn/react-virtualized)**: A set of React components for efficiently rendering large lists and tabular data.
 - **[Semiotic](https://semiotic.nteract.io/)**: A data visualization framework for React.
 
-### Icons
+## Icons
+
+*SVG icon sets and libraries ready for React.*
 
 - **[Lucide](https://lucide.dev/)**: Beautiful and consistent icons made by the community.
 - **[React Icons](https://react-icons.github.io/react-icons/)**: Include popular icons in your React projects easily.
@@ -295,7 +335,9 @@ Thank you for spreading the word!
 - **[Bootstrap Icons](https://icons.getbootstrap.com/)**: Official open-source SVG icon library for Bootstrap.
 - **[Svgl](https://svgl.app/)**: A beautiful library with SVG logos.
 
-### Animations
+## Animations
+
+*Motion and transition libraries for bringing interfaces to life.*
 
 - **[Motion](https://motion.dev/)**: A modern animation library for JavaScript and React.
 - **[React Spring](https://www.react-spring.dev/)**: A spring-physics-based animation library for React.
@@ -305,19 +347,25 @@ Thank you for spreading the word!
 - **[AutoAnimate](https://auto-animate.formkit.com/)**: A zero-config animation utility that adds smooth transitions to your React app with a single hook.
 - **[GSAP](https://gsap.com/)**: Professional-grade JavaScript animation library with a React integration for high-performance animations.
 
-### Maps
+## Maps
+
+*Map rendering and geolocation components for React.*
 
 - **[react-google-maps](https://visgl.github.io/react-google-maps/)**: React components and hooks for the Google Maps JavaScript API
 - **[React Leaflet](https://react-leaflet.js.org/)**: A React wrapper for Leaflet, an open-source JavaScript library for mobile-friendly interactive maps.
 - **[Google Maps React](https://github.com/google-map-react/google-map-react)**: A library for embedding Google Maps into React applications.
 - **[React Map GL](https://visgl.github.io/react-map-gl/)**: A React wrapper for Mapbox GL JS.
 
-### PDFs
+## PDFs
+
+*Generate and display PDF documents within React.*
 
 - **[React PDF](https://react-pdf.org/)**: A React renderer for creating PDF files.
 - **[React PDF Viewer](https://react-pdf-viewer.dev/)**: A PDF viewer for React applications.
 
-### File Handling
+## File Handling
+
+*Upload, preview, and manage files with ease.*
 
 - **[React Dropzone](https://react-dropzone.js.org/)**: Simple HTML5 drag-and-drop zone with React.
 - **[Uppy](https://uppy.io/)**: Sleek, modular file uploader for React.
@@ -325,25 +373,33 @@ Thank you for spreading the word!
 - **[React Spreadsheet](https://iddan.github.io/react-spreadsheet/)**: Simple, customizable yet performant spreadsheet for React.
 - **[Jspreadsheet](https://bossanova.uk/jspreadsheet/)**: Fully customizable JavaScript spreadsheet library, offering various components to enhance web development projects.
 
-### Real-time Communication
+## Real-time Communication
+
+*WebSocket and event-driven communication for live features.*
 
 - **[Socket.IO](https://socket.io/)**: Enables real-time, bidirectional and event-based communication.
 - **[Pusher](https://pusher.com/)**: Provides hosted APIs to build real-time apps with WebSockets.
 
-### Audio & Video
+## Audio & Video
+
+*Playback, recording, and programmatic video creation.*
 
 - **[Remotion](https://www.remotion.dev/)**: A framework for creating videos programmatically using React.
 - **[React Player](https://github.com/cookpete/react-player)**: A React component for playing a variety of URLs, including YouTube, SoundCloud, and more.
 - **[React Webcam](https://github.com/mozmorris/react-webcam)**: A React component for accessing the user's webcam.
 - **[React Sound](https://github.com/leoasis/react-sound)**: A sound component to play audio in your React applications.
 
-### Search Engine Optimization
+## Search Engine Optimization
+
+*Manage meta tags, titles, and structured data for better discoverability.*
 
 - **[React Helmet](https://github.com/nfl/react-helmet)**: A reusable React component that manages changes to the document head.
 - **[React Meta Tags](https://www.npmjs.com/package/react-meta-tags)**: A library for managing meta tags in React applications.
 - **[Next SEO](https://github.com/garmeeh/next-seo)**: A plugin that makes managing SEO easier in Next.js projects.
 
-### Validations
+## Validations
+
+*Schema definition and runtime validation for forms and APIs.*
 
 - **[Yup](https://www.npmjs.com/package/yup)**: A JavaScript schema builder for value parsing and validation.
 - **[Joi](https://joi.dev/)**: A powerful schema description language and data validator for JavaScript.
@@ -352,7 +408,9 @@ Thank you for spreading the word!
 - **[Vest](https://vestjs.dev/)**: A validations framework inspired by unit testing libraries.
 - **[Zod](https://zod.dev/)**: A TypeScript-first schema declaration and validation library.
 
-### Bundlers
+## Bundlers
+
+*Build tools that compile and optimize your React application.*
 
 - **[Webpack](https://webpack.js.org/)**: A static module bundler for modern JavaScript applications.
 - **[Vite](https://vitejs.dev/)**: A next-generation frontend tooling that focuses on speed and performance.
@@ -361,19 +419,26 @@ Thank you for spreading the word!
 - **[Turbopack](https://turbo.build/pack)**: An incremental bundler optimized for JavaScript and TypeScript, written in Rust — the successor to Webpack.
 - **[esbuild](https://esbuild.github.io/)**: An extremely fast JavaScript bundler and minifier, written in Go.
 
-### Linting & Formatting
+## Linting & Formatting
+
+*Keep your codebase consistent and error-free.*
 
 - **[ESLint](https://eslint.org/)**: A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript.
 - **[Prettier](https://prettier.io/)**: An opinionated code formatter that supports many languages and integrates with most editors.
 
-### DevTools
+## DevTools
+
+*Debugging and inspection tools for React applications.*
 
 - **[React Developer Tools](https://react.dev/learn/react-developer-tools)**: Official React DevTools for inspecting React component hierarchy.
 - **[Redux DevTools](https://redux.js.org/tutorials/fundamentals/part-4-store#redux-devtools)**: DevTools for Redux to help debug application state changes.
 - **[React Grab](https://www.react-grab.com/)**: Capture React component trees and pass them as context to AI coding agents directly from the browser.
 - **[React Doctor](https://github.com/millionco/react-doctor)**: AI-powered diagnostic tool that analyzes your React code for performance issues, security problems, and best practices.
+- **[Route Auditor](https://route-auditor.vercel.app/)**: Scans App Router, Pages Router, and API Routes — detecting missing auth, CSRF gaps, permissive CORS, hardcoded secrets, and more.
 
-### Testing
+## Testing
+
+*Unit, integration, and end-to-end testing for React apps.*
 
 - **[Jest](https://jestjs.io/)**: Delightful JavaScript Testing Framework with a focus on simplicity.
 - **[Vitest](https://vitest.dev/)**: A blazing fast unit test framework powered by Vite.
@@ -382,7 +447,9 @@ Thank you for spreading the word!
 - **[React Testing Library](https://testing-library.com/)**: Simple and complete testing utilities that encourage good testing practices.
 - **[Mock Service Worker](https://mswjs.io/)**: API mocking library that intercepts requests on the network level for seamless testing and development.
 
-### Documentation
+## Documentation
+
+*Tools for documenting components and building living style guides.*
 
 - **[Storybook](https://storybook.js.org/)**: A tool for UI development that allows you to create and test components in isolation.
 - **[Docz](https://www.docz.site/)**: It makes it easy to write and publish beautiful interactive documentation for your code.
@@ -391,36 +458,48 @@ Thank you for spreading the word!
 - **[Styleguidist](https://react-styleguidist.js.org/)**: Isolated React component development environment with a living style guide.
 - **[Nextra](https://nextra.site/)**: Simple, powerful and flexible site generation framework with everything you love from Next.js.
 
-### Internationalization
+## Internationalization
+
+*Translate and localize your React app for a global audience.*
 
 - **[Format.JS](https://formatjs.github.io/)**: Internationalization library for React, part of FormatJS.
 - **[i18next](https://www.i18next.com/)**: A powerful internationalization framework for JavaScript, including React.
 
-### Performance Optimization
+## Performance Optimization
+
+*Identify and eliminate render bottlenecks before they reach users.*
 
 - **[React Scan](https://react-scan.million.dev/)**: Scan for React performance issues and eliminate slow renders in your app.
 - **[Million](https://million.dev/)**: A React performance tool that helps you identify and fix performance issues in your React applications.
 - **[React Lazy Load](https://github.com/loktar00/react-lazy-load)**: A library that helps you defer loading content in your React application until it becomes visible in the viewport.
 - **[React Window](https://react-window.vercel.app/)**: A library for rendering large lists and tabular data efficiently.
 
-### Error Handling
+## Error Handling
+
+*Gracefully catch and report runtime errors in production.*
 
 - **[React Error Boundary](https://www.npmjs.com/package/react-error-boundary)**: A React component that catches JavaScript errors anywhere in their child component tree, logs those errors, and displays a fallback UI.
 - **[Sentry](https://sentry.io/for/react/)**: A monitoring platform that helps you identify and fix issues in your React applications in real-time.
 
-### Code Splitting
+## Code Splitting
+
+*Load only what's needed, when it's needed.*
 
 - **[Loadable Components](https://loadable-components.com/)**: A library for code-splitting React components and loading them on demand.
 - **[React Loadable](https://github.com/jamiebuilds/react-loadable)**: A higher order component for loading components with dynamic imports.
 
-### Hosting
+## Hosting
+
+*Deploy and scale your React applications with minimal friction.*
 
 - **[Vercel](https://vercel.com/)**: A platform for frontend frameworks and static sites, built to integrate with your headless content, commerce, or database.
 - **[Netlify](https://www.netlify.com/)**: A platform for automating modern web projects, with continuous deployment, serverless functions, and more.
 - **[Firebase](https://firebase.google.com/)**: A comprehensive app development platform that provides hosting for static and dynamic content, as well as backend services.
 - **[AWS Amplify](https://aws.amazon.com/es/amplify/)**: A set of tools and services that enables mobile and front-end web developers to build secure, scalable full-stack applications.
 
-### Utilities
+## Utilities
+
+*Essential helpers for dates, logging, immutability, and more.*
 
 - **[Axios](https://axios-http.com/)**: A promise-based HTTP client for the browser and Node.js.
 - **[Lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance & extras.
@@ -430,7 +509,9 @@ Thank you for spreading the word!
 - **[clsx](https://github.com/lukeed/clsx)**: A tiny utility for constructing className strings conditionally in React components.
 - **[Immer](https://immerjs.github.io/immer/)**: Create the next immutable state by mutating the current one — simplifies complex React state updates.
 
-### Miscellaneous
+## Miscellaneous
+
+*Spinners, tooltips, command menus, image tools, and other useful additions.*
 
 - **[Awesome Loaders](https://awesome-loaders.netlify.app/)**: Free & Open source loading animations.
 - **[ReactSpinners](https://www.davidhu.io/react-spinners/)**: A collection of loading spinner components for React.
@@ -452,7 +533,9 @@ Thank you for spreading the word!
 - **[ui-snippets](https://ui.ibelick.com/)**: A collection of dark mode components and effects crafted with React and Tailwind CSS.
 - **[background-snippets](https://bg.ibelick.com/)**: A collection of modern, background snippets ready-to-use, simply copy and paste into your next project.
 
-### AI & LLM Integration
+## AI & LLM Integration
+
+*Integrate language models and run ML inference directly in your React app.*
 
 - **[Vercel AI SDK](https://sdk.vercel.ai/)**: The AI Toolkit for TypeScript. Build AI-powered products with React streaming UI and LLM integrations.
 - **[LangChain.js](https://js.langchain.com/)**: A framework for developing applications powered by language models in JavaScript and TypeScript.
@@ -460,7 +543,9 @@ Thank you for spreading the word!
 - **[Anthropic SDK](https://github.com/anthropics/anthropic-sdk-typescript)**: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.
 - **[Transformers.js](https://huggingface.co/docs/transformers.js)**: State-of-the-art machine learning models running directly in the browser, compatible with React.
 
-### Component Development
+## Component Development
+
+*Develop, test, and share components in isolation.*
 
 - **[Storybook](https://storybook.js.org/)**: A tool for UI development that allows you to create and test components in isolation.
 - **[Chromatic](https://www.chromatic.com/)**: Visual testing & review platform that catches UI bugs automatically before they reach production.
@@ -468,7 +553,9 @@ Thank you for spreading the word!
 - **[React Cosmos](https://reactcosmos.org/)**: Sandbox for developing and testing React components in isolation with full context support.
 - **[Bit](https://bit.dev/)**: A toolchain for component-driven development. Build, version, and reuse components across projects.
 
-### Monorepo Tools
+## Monorepo Tools
+
+*Manage multiple packages in a single repository efficiently.*
 
 - **[Turborepo](https://turbo.build/repo)**: High-performance build system for JavaScript and TypeScript monorepos with smart caching.
 - **[Nx](https://nx.dev/)**: A powerful open-source build system with first-class React support and smart monorepo tooling.
@@ -476,10 +563,9 @@ Thank you for spreading the word!
 - **[Changesets](https://github.com/changesets/changesets)**: A workflow tool for managing versioning and changelogs in monorepos with multiple packages.
 - **[PNPM Workspaces](https://pnpm.io/workspaces)**: Native monorepo support in pnpm — fast, disk-efficient package management for multi-package repos.
 
-### Visual Studio Code Extensions
+## Visual Studio Code Extensions
 
-> [!TIP]
-> Explore these Visual Studio Code extensions to enhance your development workflow. These tools provide powerful features for code editing, debugging, and collaboration, making it easier to build and maintain your React projects efficiently.
+*Snippets, IntelliSense, and workflow tools for React development in VS Code.*
 
 - **[ReactToolkit](https://marketplace.visualstudio.com/items?itemName=drbarzaga.react-toolkit)**: A collection of essential tools and resources for React developers.
 - **[ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)**: Provides a collection of useful snippets for React, Redux, and React Native.
@@ -501,10 +587,9 @@ Thank you for spreading the word!
 - **[Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)**: Intelligent Tailwind CSS tooling for VS Code
 - **[Nova.js Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=novajs.nova-js-vsce)**: Add dependency-free React hooks to your project without leaving VS Code
 
-### Live Coding Tools
+## Live Coding Tools
 
-> [!TIP]
-> Explore these online coding platforms to create, share, and collaborate on React projects in real-time. These tools provide a fast and secure environment for web development, making it easy to test and deploy your applications.
+*Online sandboxes to prototype and share React code instantly.*
 
 - **[CodeSandbox](https://codesandbox.io/)**: An online editor tailored for web applications, allowing you to create, share, and collaborate on React projects in real-time.
 - **[StackBlitz](https://stackblitz.com/)**: An online IDE for web development, providing a fast and secure environment to build and deploy React applications.
@@ -512,7 +597,9 @@ Thank you for spreading the word!
 - **[CodePen](https://codepen.io/)**: A social development environment for front-end designers and developers, offering a platform to build and share React projects.
 - **[Replit](https://replit.com/)**: An online coding platform that supports multiple programming languages, including JavaScript and React, for collaborative coding and learning.
 
-### Popular Platforms
+## Popular Platforms
+
+*Structured courses and tutorials to deepen your React knowledge.*
 
 - **[freeCodeCamp](https://www.freecodecamp.org/)**: An interactive learning platform offering a comprehensive curriculum on web development, including React.
 - **[Codecademy](https://www.codecademy.com/learn/react-101)**: Offers an interactive course on React, covering the basics to advanced concepts.
@@ -520,11 +607,15 @@ Thank you for spreading the word!
 - **[Frontend Masters](https://frontendmasters.com/)**: Offers in-depth courses on React and other frontend technologies taught by industry experts.
 - **[Egghead.io](https://egghead.io/)**: Short, concise video tutorials on React and other modern web development tools.
 
-### GitHub Repositories
+## GitHub Repositories
+
+*Essential open-source repositories every React developer should know.*
 
 - **[React](https://github.com/facebook/react)**: The official repository for React, maintained by Facebook.
 
-### YouTube Channels
+## YouTube Channels
+
+*Video content for learning React from fundamentals to advanced patterns.*
 
 - **[Traversy Media](https://www.youtube.com/user/TechGuyWeb)**: Offers tutorials on React and other web development technologies.
 - **[Academind](https://www.youtube.com/c/Academind)**: Provides comprehensive tutorials on React, including hooks, state management, and more.
@@ -532,45 +623,37 @@ Thank you for spreading the word!
 - **[Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)**: Offers in-depth tutorials on React and other programming languages and frameworks.
 - **[freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)**: Provides full-length courses and tutorials on React and other web development technologies.
 
-### Forums
+## Forums
+
+*Communities where React developers ask questions and share knowledge.*
 
 - **[DEV’s React community](https://dev.to/t/react)**
 - **[Hashnode’s React community](https://hashnode.com/n/reactjs)**
 - **[Reactiflux online chat](https://discord.gg/reactiflux)**
 - **[Reddit’s React community](https://www.reddit.com/r/reactjs/)**
 
-### 🧩 Contributing
+---
 
-Contributions are welcome! If you have any libraries or tools that you think should be included in this collection, feel free to open an issue or submit a pull request.
+## Contributing
 
-### 📃 License
+Contributions are welcome! If you know a library or tool that belongs here, feel free to open an issue or submit a pull request. Please check the [contributing guidelines](CONTRIBUTING.md) first.
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-### ✨ Acknowledgements
-
-Special thanks to all the developers and contributors of the libraries and tools listed in this collection. Your hard work and dedication make the React ecosystem better for everyone.
-
-### 🤝 Contributors
-
-Thanks to the following people who have contributed to this project:
+## Contributors
 
 <a href="https://github.com/drbarzaga/react-toolkit/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=drbarzaga/react-toolkit" />
 </a>
 
-If you would like to contribute, please check out the [contributing guidelines](CONTRIBUTING.md).
+## License
 
-### ❤️ Support
+MIT — see the [LICENSE](LICENSE) file for details.
 
-If you find this collection helpful, please consider giving it a star ⭐ on GitHub. Your support is greatly appreciated!
+---
 
-### ✉️ Contact
+<div align="center">
 
-If you have any questions, suggestions, or feedback, feel free to reach out:
+Made with care for the React community · If you find it useful, consider leaving a ⭐
 
-- **Email**: [dayan.perez9012@gmail.com](mailto:dayan.perez9012@gmail.com)
-- **X**: [@dayanDev](https://twitter.com/dayanDev)
-- **LinkedIn**: [Dayan Perez](https://www.linkedin.com/in/drbarzaga/)
+**[dayan.perez9012@gmail.com](mailto:dayan.perez9012@gmail.com)** · **[@dayanDev](https://twitter.com/dayanDev)** · **[LinkedIn](https://www.linkedin.com/in/drbarzaga/)**
 
-We look forward to hearing from you!
+</div>
