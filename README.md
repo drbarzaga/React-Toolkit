@@ -75,6 +75,9 @@ Thank you for spreading the word!
 - [Hosting](#hosting)
 - [Utilities](#utilities)
 - [Miscellaneous](#miscellaneous)
+- [AI & LLM Integration](#ai--llm-integration)
+- [Component Development](#component-development)
+- [Monorepo Tools](#monorepo-tools)
 - [Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Live Coding Tools](#live-coding-tools)
 - [Popular Platforms](#popular-platforms)
@@ -229,6 +232,9 @@ Thank you for spreading the word!
 - **[Recoil](https://recoiljs.org/)**: A state management library for React that makes it easy to share state across components.
 - **[Stan Js](https://codemask-labs.github.io/stan-js/)**: Fast and elegant state management solution with minimal configuration for your React, React Native and even vanilla-js apps
 - **[Jotai](https://jotai.org/)**: Primitive and flexible state management for React.
+- **[MobX](https://mobx.js.org/)**: Simple, scalable state management using observable data and reactive programming.
+- **[XState](https://xstate.js.org/)**: State machines and statecharts for modern JavaScript and React applications.
+- **[Valtio](https://valtio.dev/)**: Proxy-based state management for React that makes state mutations feel natural.
 
 ### Data Fetching
 
@@ -238,6 +244,8 @@ Thank you for spreading the word!
 - **[SWR](https://swr.vercel.app/)**: React Hooks library for remote data fetching.
 - **[Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)**: A modern interface for making HTTP requests in the browser.
 - **[Relay](https://relay.dev/)**: A JavaScript framework for building data-driven React applications.
+- **[tRPC](https://trpc.io/)**: End-to-end typesafe APIs for React — no schemas, no code generation, full TypeScript inference.
+- **[URQL](https://commerce.nearform.com/open-source/urql/)**: A highly customizable and versatile GraphQL client for React.
 
 ### Styling
 
@@ -248,6 +256,8 @@ Thank you for spreading the word!
 - **[Stitches](https://stitches.dev/)**: CSS-in-JS with near-zero runtime, SSR, multi-variant support.
 - **[Linaria](https://linaria.dev/)**: Zero-Runtime CSS in JS.
 - **[styletron](https://styletron.org/)**: Toolkit for component-oriented styling.
+- **[Panda CSS](https://panda-css.com/)**: CSS-in-JS with build-time generated styles, RSC compatible, multi-variant support, and great developer experience.
+- **[UnoCSS](https://unocss.dev/)**: Instant on-demand atomic CSS engine — flexible, powerful, and blazing fast.
 
 ### Charts
 
@@ -292,6 +302,8 @@ Thank you for spreading the word!
 - **[Reactbits](https://reactbits.dev/)**: An open source React.js snippet library for animated components.
 - **[simpleParallax.js](https://simpleparallax.com/)**: simpleParallax.js is a lightweight and easy-to-use React and JS library that adds parallax animations to any image.
 - **[Blendy](https://blendy.tahazsh.com/)**: A framework-agnostic tool that smoothly transitions one element into another with just a few lines of code.
+- **[AutoAnimate](https://auto-animate.formkit.com/)**: A zero-config animation utility that adds smooth transitions to your React app with a single hook.
+- **[GSAP](https://gsap.com/)**: Professional-grade JavaScript animation library with a React integration for high-performance animations.
 
 ### Maps
 
@@ -311,6 +323,7 @@ Thank you for spreading the word!
 - **[Uppy](https://uppy.io/)**: Sleek, modular file uploader for React.
 - **[react-uploady](https://react-uploady.org/)**: Modern file-upload components & hooks for React.
 - **[React Spreadsheet](https://iddan.github.io/react-spreadsheet/)**: Simple, customizable yet performant spreadsheet for React.
+- **[Jspreadsheet](https://bossanova.uk/jspreadsheet/)**: Fully customizable JavaScript spreadsheet library, offering various components to enhance web development projects.
 
 ### Real-time Communication
 
@@ -344,6 +357,9 @@ Thank you for spreading the word!
 - **[Webpack](https://webpack.js.org/)**: A static module bundler for modern JavaScript applications.
 - **[Vite](https://vitejs.dev/)**: A next-generation frontend tooling that focuses on speed and performance.
 - **[Parcel](https://parceljs.org/)**: A zero-configuration build tool for the web.
+- **[Rollup](https://rollupjs.org/)**: A module bundler for JavaScript that compiles small pieces of code into larger bundles, ideal for libraries.
+- **[Turbopack](https://turbo.build/pack)**: An incremental bundler optimized for JavaScript and TypeScript, written in Rust — the successor to Webpack.
+- **[esbuild](https://esbuild.github.io/)**: An extremely fast JavaScript bundler and minifier, written in Go.
 
 ### Linting & Formatting
 
@@ -354,6 +370,8 @@ Thank you for spreading the word!
 
 - **[React Developer Tools](https://react.dev/learn/react-developer-tools)**: Official React DevTools for inspecting React component hierarchy.
 - **[Redux DevTools](https://redux.js.org/tutorials/fundamentals/part-4-store#redux-devtools)**: DevTools for Redux to help debug application state changes.
+- **[React Grab](https://www.react-grab.com/)**: Capture React component trees and pass them as context to AI coding agents directly from the browser.
+- **[React Doctor](https://github.com/millionco/react-doctor)**: AI-powered diagnostic tool that analyzes your React code for performance issues, security problems, and best practices.
 
 ### Testing
 
@@ -362,6 +380,7 @@ Thank you for spreading the word!
 - **[Playwright](https://playwright.dev/)**: End-to-end testing framework for web apps, with support for multiple browsers.
 - **[Cypress](https://www.cypress.io/)**: Fast, easy and reliable testing for anything that runs in a browser.
 - **[React Testing Library](https://testing-library.com/)**: Simple and complete testing utilities that encourage good testing practices.
+- **[Mock Service Worker](https://mswjs.io/)**: API mocking library that intercepts requests on the network level for seamless testing and development.
 
 ### Documentation
 
@@ -407,7 +426,9 @@ Thank you for spreading the word!
 - **[Lodash](https://lodash.com/)**: A modern JavaScript utility library delivering modularity, performance & extras.
 - **[date-fns](https://date-fns.org/)**: Modern JavaScript date utility library.
 - **[Day.js](https://day.js.org/)**: Fast 2kB alternative to Moment.js with the same modern API.
-- \*\*[Winston](https://github.com/winstonjs/winston): A logger for just about everything.
+- **[Winston](https://github.com/winstonjs/winston)**: A logger for just about everything.
+- **[clsx](https://github.com/lukeed/clsx)**: A tiny utility for constructing className strings conditionally in React components.
+- **[Immer](https://immerjs.github.io/immer/)**: Create the next immutable state by mutating the current one — simplifies complex React state updates.
 
 ### Miscellaneous
 
@@ -430,6 +451,30 @@ Thank you for spreading the word!
 - **[Number Flow](https://number-flow.barvian.me/)**: An animated number component. Dependency-free. Accessible and customizable.
 - **[ui-snippets](https://ui.ibelick.com/)**: A collection of dark mode components and effects crafted with React and Tailwind CSS.
 - **[background-snippets](https://bg.ibelick.com/)**: A collection of modern, background snippets ready-to-use, simply copy and paste into your next project.
+
+### AI & LLM Integration
+
+- **[Vercel AI SDK](https://sdk.vercel.ai/)**: The AI Toolkit for TypeScript. Build AI-powered products with React streaming UI and LLM integrations.
+- **[LangChain.js](https://js.langchain.com/)**: A framework for developing applications powered by language models in JavaScript and TypeScript.
+- **[OpenAI Node SDK](https://github.com/openai/openai-node)**: Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.
+- **[Anthropic SDK](https://github.com/anthropics/anthropic-sdk-typescript)**: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.
+- **[Transformers.js](https://huggingface.co/docs/transformers.js)**: State-of-the-art machine learning models running directly in the browser, compatible with React.
+
+### Component Development
+
+- **[Storybook](https://storybook.js.org/)**: A tool for UI development that allows you to create and test components in isolation.
+- **[Chromatic](https://www.chromatic.com/)**: Visual testing & review platform that catches UI bugs automatically before they reach production.
+- **[Ladle](https://ladle.dev/)**: A faster, drop-in alternative to Storybook for developing and testing React components.
+- **[React Cosmos](https://reactcosmos.org/)**: Sandbox for developing and testing React components in isolation with full context support.
+- **[Bit](https://bit.dev/)**: A toolchain for component-driven development. Build, version, and reuse components across projects.
+
+### Monorepo Tools
+
+- **[Turborepo](https://turbo.build/repo)**: High-performance build system for JavaScript and TypeScript monorepos with smart caching.
+- **[Nx](https://nx.dev/)**: A powerful open-source build system with first-class React support and smart monorepo tooling.
+- **[Lerna](https://lerna.js.org/)**: The original monorepo tool for managing and publishing multiple JavaScript packages from one repo.
+- **[Changesets](https://github.com/changesets/changesets)**: A workflow tool for managing versioning and changelogs in monorepos with multiple packages.
+- **[PNPM Workspaces](https://pnpm.io/workspaces)**: Native monorepo support in pnpm — fast, disk-efficient package management for multi-package repos.
 
 ### Visual Studio Code Extensions
 
