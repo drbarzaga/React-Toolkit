@@ -155,6 +155,7 @@ Essential libraries and tools for building modern React applications.
 - **[React Complex Tree](https://rct.lukasbach.com/)**: Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop.
 - **[FormKit’s Drag and Drop](https://drag-and-drop.formkit.com/)**:A small library for adding data-first drag and drop sorting and transferring for lists in your app. It’s simple, flexible, framework agnostic, and clocks in at only ~4Kb gzipped.
 - **[react-movable](https://react-movable.pages.dev/)**: Drag and drop for your React lists and tables.
+- **[GridstackJS](https://gridstackjs.com/)**: Mobile-friendly modern TypeScript library for dashboard layout and creation. Drag-and-drop, multi-column responsive dashboards with bindings for React, Angular, Vue and more.
 
 ## UI Frameworks & Libraries
 
