@@ -13,6 +13,10 @@ Essential libraries and tools for building modern React applications.
 [![Share on LinkedIn](https://img.shields.io/badge/Share%20on%20LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit)
 [![Share on Reddit](https://img.shields.io/badge/Share%20on%20Reddit-FF4500?logo=reddit&style=flat-square)](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fdrbarzaga%2Freact-toolkit&title=React%20Toolkit%20Collection)
 
+<br/>
+
+![React Toolkit Banner](assets/banner.png)
+
 </div>
 
 ---
