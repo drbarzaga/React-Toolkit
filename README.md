@@ -543,6 +543,7 @@ Essential libraries and tools for building modern React applications.
 *Integrate language models and run ML inference directly in your React app.*
 
 - **[Vercel AI SDK](https://sdk.vercel.ai/)**: The AI Toolkit for TypeScript. Build AI-powered products with React streaming UI and LLM integrations.
+- **[Markstream](https://markstream.simonhe.me/)**: Open-source streaming Markdown renderer for React AI chat interfaces, with incomplete-token handling, Mermaid, KaTeX, syntax highlighting, safe HTML, SSR, and React 18/19 support.
 - **[LangChain.js](https://js.langchain.com/)**: A framework for developing applications powered by language models in JavaScript and TypeScript.
 - **[OpenAI Node SDK](https://github.com/openai/openai-node)**: Official OpenAI SDK for TypeScript/JavaScript to integrate GPT models into your React applications.
 - **[Anthropic SDK](https://github.com/anthropics/anthropic-sdk-typescript)**: Official Anthropic TypeScript SDK for integrating Claude AI into your React applications.
