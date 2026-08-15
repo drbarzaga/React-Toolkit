@@ -451,6 +451,7 @@ Essential libraries and tools for building modern React applications.
 - **[Cypress](https://www.cypress.io/)**: Fast, easy and reliable testing for anything that runs in a browser.
 - **[React Testing Library](https://testing-library.com/)**: Simple and complete testing utilities that encourage good testing practices.
 - **[Mock Service Worker](https://mswjs.io/)**: API mocking library that intercepts requests on the network level for seamless testing and development.
+- **[agent-qa](https://github.com/vostride/agent-qa)**: Self-improving QA agent for natural-language browser tests with persistent memory and self-healing execution.
 
 ## Documentation
 
