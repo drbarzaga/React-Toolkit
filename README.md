@@ -354,6 +354,7 @@ Essential libraries and tools for building modern React applications.
 - **[Blendy](https://blendy.tahazsh.com/)**: A framework-agnostic tool that smoothly transitions one element into another with just a few lines of code.
 - **[AutoAnimate](https://auto-animate.formkit.com/)**: A zero-config animation utility that adds smooth transitions to your React app with a single hook.
 - **[GSAP](https://gsap.com/)**: Professional-grade JavaScript animation library with a React integration for high-performance animations.
+- **[Riffle](https://reactivepixels.github.io/riffle/react/)**: A headless, physics-based cycling card stack for React, shipped as a component and a hook, with zero dependencies and built-in accessibility.
 
 ## Maps
 
