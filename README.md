@@ -561,6 +561,7 @@ Essential libraries and tools for building modern React applications.
 
 - **[Storybook](https://storybook.js.org/)**: A tool for UI development that allows you to create and test components in isolation.
 - **[Chromatic](https://www.chromatic.com/)**: Visual testing & review platform that catches UI bugs automatically before they reach production.
+- **[UI Verify](https://uiverify.ai/)**: Visual testing for React components written by coding agents, using your existing Storybook, Vitest or Playwright tests.
 - **[Ladle](https://ladle.dev/)**: A faster, drop-in alternative to Storybook for developing and testing React components.
 - **[React Cosmos](https://reactcosmos.org/)**: Sandbox for developing and testing React components in isolation with full context support.
 - **[Bit](https://bit.dev/)**: A toolchain for component-driven development. Build, version, and reuse components across projects.
