@@ -355,6 +355,7 @@ Essential libraries and tools for building modern React applications.
 - **[AutoAnimate](https://auto-animate.formkit.com/)**: A zero-config animation utility that adds smooth transitions to your React app with a single hook.
 - **[GSAP](https://gsap.com/)**: Professional-grade JavaScript animation library with a React integration for high-performance animations.
 - **[Riffle](https://reactivepixels.github.io/riffle/react/)**: A headless, physics-based cycling card stack for React, shipped as a component and a hook, with zero dependencies and built-in accessibility.
+- **[qodesign-free](https://teodoravadani.github.io/qodesign-free/)**: Free MIT animated React components (Toast Stack, Pricing Switch, Upload Dropzone, Day/Night Toggle) and the Orbit and Ledger dashboards, built with Framer Motion and installable with the shadcn CLI or npm.
 
 ## Maps
 
